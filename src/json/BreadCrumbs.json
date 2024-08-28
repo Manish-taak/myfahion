@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "pathName": "home"
+  },
+  {
+    "id": 2,
+    "pathName": "new-arrivals"
+  },
+  {
+    "id": 3,
+    "pathName": "explore-by-categories"
+  },
+  {
+    "id": 4,
+    "pathName": "return-refund-policy"
+  }
+]

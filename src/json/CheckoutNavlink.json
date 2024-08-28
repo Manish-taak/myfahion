@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Upi Address",
+        "href": "/checkout/upiaddress"
+    },
+    {
+        "name": "Credit / debit Card",
+        "href": "/checkout/creditdebit"
+    },
+    {
+        "name": "Net Banking",
+        "href": "/checkout/netbanking"
+    },
+    {
+        "name": "Emi",
+        "href": "/checkout/emi"
+    },
+    {
+        "name": "Cash on delivery",
+        "href": "/checkout/cashondelivery"
+    }
+]

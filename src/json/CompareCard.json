@@ -1,0 +1,18 @@
+ [
+    {
+      "id": 1,
+      "image": "productimage13.png",
+      "heading": "Sweater Cardigan Crop top",
+      "price": "$ 20.00",
+      "discount": "$32.00",
+      "offer": "(15% Off)"
+    },
+    {
+      "id": 2,
+      "image": "productimage13.png",
+      "heading": "Sweater Cardigan Crop top",
+      "price": "$ 20.00",
+      "discount": "$32.00",
+      "offer": "(15% Off)"
+    }
+  ]

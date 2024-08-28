@@ -1,0 +1,2090 @@
+[
+  {
+    "id": 1,
+    "name": " Grey Cotton T-Shirt ",
+    "description": "Apple Watch Series 6",
+    "image": "productimage1.png",
+    "active": false,
+    "Featured": true,
+    "sellingproducts": false,
+    "topbrands": false,
+    "ArrivalsProducts": false,
+    "price": "$ 20.00",
+    "brandsId": 1,
+    "subcategoryId": 9,
+    "categoryId": 1,
+    "offer": "45%",
+    "new": "",
+    "top": "",
+    "sold": "",
+    "colors": [
+      {
+        "id": 1,
+        "color": "blue",
+        "color_code": "#0288D1",
+        "color_status": true
+      },
+      {
+        "id": 2,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      },
+      {
+        "id": 3,
+        "color": "orange",
+        "color_code": "#F57E5D",
+        "color_status": true
+      },
+      {
+        "id": 4,
+        "color": "red",
+        "color_code": "#D32F2F",
+        "color_status": true
+      },
+      {
+        "id": 5,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      }
+    ],
+    "product_color_image": [
+      {
+        "id": 1,
+        "productId": 1,
+        "color": {
+          "color_code": "#FF0000",
+          "color": "Red"
+        },
+        "image": "image-1708166818731-171466371-camra.png",
+        "price": "200"
+      }
+    ],
+    "brands": {
+      "brand_name": "apply",
+      "brand_description": "high cost"
+    },
+    "category": {
+      "name": "Watches"
+    },
+    "subcategory": {
+      "subcategory_name": "Men's Watches"
+    },
+    "Produsts_Review": [
+      {
+        "id": 1,
+        "rating": "14.89",
+        "comment": "A mauris amet, et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum. Aliquet sed in sit tellus lacus eu dolor vitae sed.",
+        "createdAt": "2024-02-20T17:49:39.433Z",
+        "user": {
+          "name": "manish",
+          "profile": null
+        }
+      }
+    ],
+    "ProductDetails": [
+      {
+        "id": 1,
+        "details": "Take calls and reply to texts. Id aliquam felis a egestas mi diam erat eu habitasse. Suscipit tincidunt sodales mauris ac, sed. Tempus lacus, consectetur neque, et. Vitae sapien, suspendisse eget maecenas sit pulvinar lectus. Tristique leo sit velit interdum vel. Donec non vitae quam est consequat tortor etiam in in.Elementum condimentum dis tortor ipsum duis amet, non. A mauris amet et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum.Aliquet sed in sit tellus lacus eu dolor vitae sed. Phasellus morbi aliquam sit in nulla consequat. Ut pretium sed nam rutrum cursus nisi felis cursus vestibulum. Sagittis platea venenatis at nibh tellus purus urna. Ultricies mauris scelerisque dictum diam aliquet urna elementum. Aliquam tortor egestas nisi placerat odio aliquet amet, rhoncus. Pellentesque magna vestibulum vivamus pulvinar consectetur diam libero ornare.",
+        "productId": 1
+      }
+    ],
+    "productsinfo": [
+      {
+        "id": 1,
+        "image": "image-1708509949121-23010798-image 27.png",
+        "Special_feature": "Email, GPS, Notifications",
+        "Item_weight": "30 Grams",
+        "Compatible_Devices": "Smartphone",
+        "productId": 1
+      }
+    ],
+    "Faq": [
+      {
+        "id": 1,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      },
+      {
+        "id": 2,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": " Grey Cotton T-Shirt ",
+    "description": "Apple Watch Series 6",
+    "image": "productimage2.png",
+    "active": false,
+    "Featured": true,
+    "sellingproducts": false,
+    "topbrands": false,
+    "ArrivalsProducts": false,
+    "price": "$ 20.00",
+    "brandsId": 1,
+    "subcategoryId": 9,
+    "categoryId": 1,
+    "offer": "",
+    "new": "",
+    "top": "",
+    "sold": "Sold Out",
+    "colors": [
+      {
+        "id": 1,
+        "color": "blue",
+        "color_code": "#0288D1",
+        "color_status": true
+      },
+      {
+        "id": 2,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      },
+      {
+        "id": 3,
+        "color": "orange",
+        "color_code": "#F57E5D",
+        "color_status": true
+      },
+      {
+        "id": 4,
+        "color": "red",
+        "color_code": "#D32F2F",
+        "color_status": true
+      },
+      {
+        "id": 5,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      }
+    ],
+    "product_color_image": [
+      {
+        "id": 1,
+        "productId": 1,
+        "color": {
+          "color_code": "#FF0000",
+          "color": "Red"
+        },
+        "image": "image-1708166818731-171466371-camra.png",
+        "price": "200"
+      }
+    ],
+    "brands": {
+      "brand_name": "apply",
+      "brand_description": "high cost"
+    },
+    "category": {
+      "name": "Watches"
+    },
+    "subcategory": {
+      "subcategory_name": "Men's Watches"
+    },
+    "Produsts_Review": [
+      {
+        "id": 1,
+        "rating": "14.89",
+        "comment": "A mauris amet, et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum. Aliquet sed in sit tellus lacus eu dolor vitae sed.",
+        "createdAt": "2024-02-20T17:49:39.433Z",
+        "user": {
+          "name": "manish",
+          "profile": null
+        }
+      }
+    ],
+    "ProductDetails": [
+      {
+        "id": 1,
+        "details": "Take calls and reply to texts. Id aliquam felis a egestas mi diam erat eu habitasse. Suscipit tincidunt sodales mauris ac, sed. Tempus lacus, consectetur neque, et. Vitae sapien, suspendisse eget maecenas sit pulvinar lectus. Tristique leo sit velit interdum vel. Donec non vitae quam est consequat tortor etiam in in.Elementum condimentum dis tortor ipsum duis amet, non. A mauris amet et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum.Aliquet sed in sit tellus lacus eu dolor vitae sed. Phasellus morbi aliquam sit in nulla consequat. Ut pretium sed nam rutrum cursus nisi felis cursus vestibulum. Sagittis platea venenatis at nibh tellus purus urna. Ultricies mauris scelerisque dictum diam aliquet urna elementum. Aliquam tortor egestas nisi placerat odio aliquet amet, rhoncus. Pellentesque magna vestibulum vivamus pulvinar consectetur diam libero ornare.",
+        "productId": 1
+      }
+    ],
+    "productsinfo": [
+      {
+        "id": 1,
+        "image": "image-1708509949121-23010798-image 27.png",
+        "Special_feature": "Email, GPS, Notifications",
+        "Item_weight": "30 Grams",
+        "Compatible_Devices": "Smartphone",
+        "productId": 1
+      }
+    ],
+    "Faq": [
+      {
+        "id": 1,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      },
+      {
+        "id": 2,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": " Grey Cotton T-Shirt ",
+    "description": "Apple Watch Series 6",
+    "image": "productimage3.png",
+    "active": false,
+    "Featured": true,
+    "sellingproducts": false,
+    "topbrands": false,
+    "ArrivalsProducts": false,
+    "price": "$ 20.00",
+    "brandsId": 1,
+    "subcategoryId": 9,
+    "categoryId": 1,
+    "offer": "",
+    "new": "",
+    "sold": "",
+    "top": "Top Rated",
+    "colors": [
+      {
+        "id": 1,
+        "color": "blue",
+        "color_code": "#0288D1",
+        "color_status": true
+      },
+      {
+        "id": 2,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      },
+      {
+        "id": 3,
+        "color": "orange",
+        "color_code": "#F57E5D",
+        "color_status": true
+      },
+      {
+        "id": 4,
+        "color": "red",
+        "color_code": "#D32F2F",
+        "color_status": true
+      },
+      {
+        "id": 5,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      }
+    ],
+    "product_color_image": [
+      {
+        "id": 1,
+        "productId": 1,
+        "color": {
+          "color_code": "#FF0000",
+          "color": "Red"
+        },
+        "image": "image-1708166818731-171466371-camra.png",
+        "price": "200"
+      }
+    ],
+    "brands": {
+      "brand_name": "apply",
+      "brand_description": "high cost"
+    },
+    "category": {
+      "name": "Watches"
+    },
+    "subcategory": {
+      "subcategory_name": "Men's Watches"
+    },
+    "Produsts_Review": [
+      {
+        "id": 1,
+        "rating": "14.89",
+        "comment": "A mauris amet, et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum. Aliquet sed in sit tellus lacus eu dolor vitae sed.",
+        "createdAt": "2024-02-20T17:49:39.433Z",
+        "user": {
+          "name": "manish",
+          "profile": null
+        }
+      }
+    ],
+    "ProductDetails": [
+      {
+        "id": 1,
+        "details": "Take calls and reply to texts. Id aliquam felis a egestas mi diam erat eu habitasse. Suscipit tincidunt sodales mauris ac, sed. Tempus lacus, consectetur neque, et. Vitae sapien, suspendisse eget maecenas sit pulvinar lectus. Tristique leo sit velit interdum vel. Donec non vitae quam est consequat tortor etiam in in.Elementum condimentum dis tortor ipsum duis amet, non. A mauris amet et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum.Aliquet sed in sit tellus lacus eu dolor vitae sed. Phasellus morbi aliquam sit in nulla consequat. Ut pretium sed nam rutrum cursus nisi felis cursus vestibulum. Sagittis platea venenatis at nibh tellus purus urna. Ultricies mauris scelerisque dictum diam aliquet urna elementum. Aliquam tortor egestas nisi placerat odio aliquet amet, rhoncus. Pellentesque magna vestibulum vivamus pulvinar consectetur diam libero ornare.",
+        "productId": 1
+      }
+    ],
+    "productsinfo": [
+      {
+        "id": 1,
+        "image": "image-1708509949121-23010798-image 27.png",
+        "Special_feature": "Email, GPS, Notifications",
+        "Item_weight": "30 Grams",
+        "Compatible_Devices": "Smartphone",
+        "productId": 1
+      }
+    ],
+    "Faq": [
+      {
+        "id": 1,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      },
+      {
+        "id": 2,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": " Grey Cotton T-Shirt ",
+    "description": "Apple Watch Series 6",
+    "image": "productimage4.png",
+    "active": false,
+    "Featured": true,
+    "sellingproducts": false,
+    "topbrands": false,
+    "ArrivalsProducts": false,
+    "price": "$ 20.00",
+    "brandsId": 1,
+    "subcategoryId": 9,
+    "categoryId": 1,
+    "offer": "45%",
+    "new": "",
+    "top": "",
+    "sold": "",
+    "colors": [
+      {
+        "id": 1,
+        "color": "blue",
+        "color_code": "#0288D1",
+        "color_status": true
+      },
+      {
+        "id": 2,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      },
+      {
+        "id": 3,
+        "color": "orange",
+        "color_code": "#F57E5D",
+        "color_status": true
+      },
+      {
+        "id": 4,
+        "color": "red",
+        "color_code": "#D32F2F",
+        "color_status": true
+      },
+      {
+        "id": 5,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      }
+    ],
+    "product_color_image": [
+      {
+        "id": 1,
+        "productId": 1,
+        "color": {
+          "color_code": "#FF0000",
+          "color": "Red"
+        },
+        "image": "image-1708166818731-171466371-camra.png",
+        "price": "200"
+      }
+    ],
+    "brands": {
+      "brand_name": "apply",
+      "brand_description": "high cost"
+    },
+    "category": {
+      "name": "Watches"
+    },
+    "subcategory": {
+      "subcategory_name": "Men's Watches"
+    },
+    "Produsts_Review": [
+      {
+        "id": 1,
+        "rating": "14.89",
+        "comment": "A mauris amet, et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum. Aliquet sed in sit tellus lacus eu dolor vitae sed.",
+        "createdAt": "2024-02-20T17:49:39.433Z",
+        "user": {
+          "name": "manish",
+          "profile": null
+        }
+      }
+    ],
+    "ProductDetails": [
+      {
+        "id": 1,
+        "details": "Take calls and reply to texts. Id aliquam felis a egestas mi diam erat eu habitasse. Suscipit tincidunt sodales mauris ac, sed. Tempus lacus, consectetur neque, et. Vitae sapien, suspendisse eget maecenas sit pulvinar lectus. Tristique leo sit velit interdum vel. Donec non vitae quam est consequat tortor etiam in in.Elementum condimentum dis tortor ipsum duis amet, non. A mauris amet et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum.Aliquet sed in sit tellus lacus eu dolor vitae sed. Phasellus morbi aliquam sit in nulla consequat. Ut pretium sed nam rutrum cursus nisi felis cursus vestibulum. Sagittis platea venenatis at nibh tellus purus urna. Ultricies mauris scelerisque dictum diam aliquet urna elementum. Aliquam tortor egestas nisi placerat odio aliquet amet, rhoncus. Pellentesque magna vestibulum vivamus pulvinar consectetur diam libero ornare.",
+        "productId": 1
+      }
+    ],
+    "productsinfo": [
+      {
+        "id": 1,
+        "image": "image-1708509949121-23010798-image 27.png",
+        "Special_feature": "Email, GPS, Notifications",
+        "Item_weight": "30 Grams",
+        "Compatible_Devices": "Smartphone",
+        "productId": 1
+      }
+    ],
+    "Faq": [
+      {
+        "id": 1,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      },
+      {
+        "id": 2,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": " Grey Cotton T-Shirt ",
+    "description": "Apple Watch Series 6",
+    "image": "productimage5.png",
+    "active": false,
+    "Featured": true,
+    "sellingproducts": false,
+    "topbrands": false,
+    "ArrivalsProducts": false,
+    "price": "$ 20.00",
+    "brandsId": 1,
+    "subcategoryId": 9,
+    "categoryId": 1,
+    "offer": "",
+    "new": "New",
+    "sold": "",
+    "top": "",
+    "colors": [
+      {
+        "id": 1,
+        "color": "blue",
+        "color_code": "#0288D1",
+        "color_status": true
+      },
+      {
+        "id": 2,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      },
+      {
+        "id": 3,
+        "color": "orange",
+        "color_code": "#F57E5D",
+        "color_status": true
+      },
+      {
+        "id": 4,
+        "color": "red",
+        "color_code": "#D32F2F",
+        "color_status": true
+      },
+      {
+        "id": 5,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      }
+    ],
+    "product_color_image": [
+      {
+        "id": 1,
+        "productId": 1,
+        "color": {
+          "color_code": "#FF0000",
+          "color": "Red"
+        },
+        "image": "image-1708166818731-171466371-camra.png",
+        "price": "200"
+      }
+    ],
+    "brands": {
+      "brand_name": "apply",
+      "brand_description": "high cost"
+    },
+    "category": {
+      "name": "Watches"
+    },
+    "subcategory": {
+      "subcategory_name": "Men's Watches"
+    },
+    "Produsts_Review": [
+      {
+        "id": 1,
+        "rating": "14.89",
+        "comment": "A mauris amet, et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum. Aliquet sed in sit tellus lacus eu dolor vitae sed.",
+        "createdAt": "2024-02-20T17:49:39.433Z",
+        "user": {
+          "name": "manish",
+          "profile": null
+        }
+      }
+    ],
+    "ProductDetails": [
+      {
+        "id": 1,
+        "details": "Take calls and reply to texts. Id aliquam felis a egestas mi diam erat eu habitasse. Suscipit tincidunt sodales mauris ac, sed. Tempus lacus, consectetur neque, et. Vitae sapien, suspendisse eget maecenas sit pulvinar lectus. Tristique leo sit velit interdum vel. Donec non vitae quam est consequat tortor etiam in in.Elementum condimentum dis tortor ipsum duis amet, non. A mauris amet et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum.Aliquet sed in sit tellus lacus eu dolor vitae sed. Phasellus morbi aliquam sit in nulla consequat. Ut pretium sed nam rutrum cursus nisi felis cursus vestibulum. Sagittis platea venenatis at nibh tellus purus urna. Ultricies mauris scelerisque dictum diam aliquet urna elementum. Aliquam tortor egestas nisi placerat odio aliquet amet, rhoncus. Pellentesque magna vestibulum vivamus pulvinar consectetur diam libero ornare.",
+        "productId": 1
+      }
+    ],
+    "productsinfo": [
+      {
+        "id": 1,
+        "image": "image-1708509949121-23010798-image 27.png",
+        "Special_feature": "Email, GPS, Notifications",
+        "Item_weight": "30 Grams",
+        "Compatible_Devices": "Smartphone",
+        "productId": 1
+      }
+    ],
+    "Faq": [
+      {
+        "id": 1,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      },
+      {
+        "id": 2,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": " Grey Cotton T-Shirt ",
+    "description": "Apple Watch Series 6",
+    "image": "productimage6.png",
+    "active": false,
+    "Featured": true,
+    "sellingproducts": false,
+    "topbrands": false,
+    "ArrivalsProducts": false,
+    "price": "$ 20.00",
+    "brandsId": 1,
+    "subcategoryId": 9,
+    "categoryId": 1,
+    "offer": "",
+    "sold": "Sold Out",
+    "new": "",
+    "top": "",
+    "colors": [
+      {
+        "id": 1,
+        "color": "blue",
+        "color_code": "#0288D1",
+        "color_status": true
+      },
+      {
+        "id": 2,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      },
+      {
+        "id": 3,
+        "color": "orange",
+        "color_code": "#F57E5D",
+        "color_status": true
+      },
+      {
+        "id": 4,
+        "color": "red",
+        "color_code": "#D32F2F",
+        "color_status": true
+      },
+      {
+        "id": 5,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      }
+    ],
+    "product_color_image": [
+      {
+        "id": 1,
+        "productId": 1,
+        "color": {
+          "color_code": "#FF0000",
+          "color": "Red"
+        },
+        "image": "image-1708166818731-171466371-camra.png",
+        "price": "200"
+      }
+    ],
+    "brands": {
+      "brand_name": "apply",
+      "brand_description": "high cost"
+    },
+    "category": {
+      "name": "Watches"
+    },
+    "subcategory": {
+      "subcategory_name": "Men's Watches"
+    },
+    "Produsts_Review": [
+      {
+        "id": 1,
+        "rating": "14.89",
+        "comment": "A mauris amet, et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum. Aliquet sed in sit tellus lacus eu dolor vitae sed.",
+        "createdAt": "2024-02-20T17:49:39.433Z",
+        "user": {
+          "name": "manish",
+          "profile": null
+        }
+      }
+    ],
+    "ProductDetails": [
+      {
+        "id": 1,
+        "details": "Take calls and reply to texts. Id aliquam felis a egestas mi diam erat eu habitasse. Suscipit tincidunt sodales mauris ac, sed. Tempus lacus, consectetur neque, et. Vitae sapien, suspendisse eget maecenas sit pulvinar lectus. Tristique leo sit velit interdum vel. Donec non vitae quam est consequat tortor etiam in in.Elementum condimentum dis tortor ipsum duis amet, non. A mauris amet et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum.Aliquet sed in sit tellus lacus eu dolor vitae sed. Phasellus morbi aliquam sit in nulla consequat. Ut pretium sed nam rutrum cursus nisi felis cursus vestibulum. Sagittis platea venenatis at nibh tellus purus urna. Ultricies mauris scelerisque dictum diam aliquet urna elementum. Aliquam tortor egestas nisi placerat odio aliquet amet, rhoncus. Pellentesque magna vestibulum vivamus pulvinar consectetur diam libero ornare.",
+        "productId": 1
+      }
+    ],
+    "productsinfo": [
+      {
+        "id": 1,
+        "image": "image-1708509949121-23010798-image 27.png",
+        "Special_feature": "Email, GPS, Notifications",
+        "Item_weight": "30 Grams",
+        "Compatible_Devices": "Smartphone",
+        "productId": 1
+      }
+    ],
+    "Faq": [
+      {
+        "id": 1,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      },
+      {
+        "id": 2,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": " Grey Cotton T-Shirt ",
+    "description": "Apple Watch Series 6",
+    "image": "productimage7.png",
+    "active": false,
+    "Featured": true,
+    "sellingproducts": false,
+    "topbrands": false,
+    "ArrivalsProducts": false,
+    "price": "$ 20.00",
+    "brandsId": 1,
+    "subcategoryId": 9,
+    "categoryId": 1,
+    "offer": "",
+    "new": "new",
+    "sold": "",
+    "top": "",
+    "colors": [
+      {
+        "id": 1,
+        "color": "blue",
+        "color_code": "#0288D1",
+        "color_status": true
+      },
+      {
+        "id": 2,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      },
+      {
+        "id": 3,
+        "color": "orange",
+        "color_code": "#F57E5D",
+        "color_status": true
+      },
+      {
+        "id": 4,
+        "color": "red",
+        "color_code": "#D32F2F",
+        "color_status": true
+      },
+      {
+        "id": 5,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      }
+    ],
+    "product_color_image": [
+      {
+        "id": 1,
+        "productId": 1,
+        "color": {
+          "color_code": "#FF0000",
+          "color": "Red"
+        },
+        "image": "image-1708166818731-171466371-camra.png",
+        "price": "200"
+      }
+    ],
+    "brands": {
+      "brand_name": "apply",
+      "brand_description": "high cost"
+    },
+    "category": {
+      "name": "Watches"
+    },
+    "subcategory": {
+      "subcategory_name": "Men's Watches"
+    },
+    "Produsts_Review": [
+      {
+        "id": 1,
+        "rating": "14.89",
+        "comment": "A mauris amet, et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum. Aliquet sed in sit tellus lacus eu dolor vitae sed.",
+        "createdAt": "2024-02-20T17:49:39.433Z",
+        "user": {
+          "name": "manish",
+          "profile": null
+        }
+      }
+    ],
+    "ProductDetails": [
+      {
+        "id": 1,
+        "details": "Take calls and reply to texts. Id aliquam felis a egestas mi diam erat eu habitasse. Suscipit tincidunt sodales mauris ac, sed. Tempus lacus, consectetur neque, et. Vitae sapien, suspendisse eget maecenas sit pulvinar lectus. Tristique leo sit velit interdum vel. Donec non vitae quam est consequat tortor etiam in in.Elementum condimentum dis tortor ipsum duis amet, non. A mauris amet et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum.Aliquet sed in sit tellus lacus eu dolor vitae sed. Phasellus morbi aliquam sit in nulla consequat. Ut pretium sed nam rutrum cursus nisi felis cursus vestibulum. Sagittis platea venenatis at nibh tellus purus urna. Ultricies mauris scelerisque dictum diam aliquet urna elementum. Aliquam tortor egestas nisi placerat odio aliquet amet, rhoncus. Pellentesque magna vestibulum vivamus pulvinar consectetur diam libero ornare.",
+        "productId": 1
+      }
+    ],
+    "productsinfo": [
+      {
+        "id": 1,
+        "image": "image-1708509949121-23010798-image 27.png",
+        "Special_feature": "Email, GPS, Notifications",
+        "Item_weight": "30 Grams",
+        "Compatible_Devices": "Smartphone",
+        "productId": 1
+      }
+    ],
+    "Faq": [
+      {
+        "id": 1,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      },
+      {
+        "id": 2,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": " Grey Cotton T-Shirt ",
+    "description": "Apple Watch Series 6",
+    "image": "productimage8.png",
+    "active": false,
+    "Featured": true,
+    "sellingproducts": false,
+    "topbrands": false,
+    "ArrivalsProducts": false,
+    "price": "$ 20.00",
+    "brandsId": 1,
+    "subcategoryId": 9,
+    "categoryId": 1,
+    "offer": "",
+    "new": "",
+    "sold": "",
+    "top": "Top Rated",
+    "colors": [
+      {
+        "id": 1,
+        "color": "blue",
+        "color_code": "#0288D1",
+        "color_status": true
+      },
+      {
+        "id": 2,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      },
+      {
+        "id": 3,
+        "color": "orange",
+        "color_code": "#F57E5D",
+        "color_status": true
+      },
+      {
+        "id": 4,
+        "color": "red",
+        "color_code": "#D32F2F",
+        "color_status": true
+      },
+      {
+        "id": 5,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      }
+    ],
+    "product_color_image": [
+      {
+        "id": 1,
+        "productId": 1,
+        "color": {
+          "color_code": "#FF0000",
+          "color": "Red"
+        },
+        "image": "image-1708166818731-171466371-camra.png",
+        "price": "200"
+      }
+    ],
+    "brands": {
+      "brand_name": "apply",
+      "brand_description": "high cost"
+    },
+    "category": {
+      "name": "Watches"
+    },
+    "subcategory": {
+      "subcategory_name": "Men's Watches"
+    },
+    "Produsts_Review": [
+      {
+        "id": 1,
+        "rating": "14.89",
+        "comment": "A mauris amet, et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum. Aliquet sed in sit tellus lacus eu dolor vitae sed.",
+        "createdAt": "2024-02-20T17:49:39.433Z",
+        "user": {
+          "name": "manish",
+          "profile": null
+        }
+      }
+    ],
+    "ProductDetails": [
+      {
+        "id": 1,
+        "details": "Take calls and reply to texts. Id aliquam felis a egestas mi diam erat eu habitasse. Suscipit tincidunt sodales mauris ac, sed. Tempus lacus, consectetur neque, et. Vitae sapien, suspendisse eget maecenas sit pulvinar lectus. Tristique leo sit velit interdum vel. Donec non vitae quam est consequat tortor etiam in in.Elementum condimentum dis tortor ipsum duis amet, non. A mauris amet et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum.Aliquet sed in sit tellus lacus eu dolor vitae sed. Phasellus morbi aliquam sit in nulla consequat. Ut pretium sed nam rutrum cursus nisi felis cursus vestibulum. Sagittis platea venenatis at nibh tellus purus urna. Ultricies mauris scelerisque dictum diam aliquet urna elementum. Aliquam tortor egestas nisi placerat odio aliquet amet, rhoncus. Pellentesque magna vestibulum vivamus pulvinar consectetur diam libero ornare.",
+        "productId": 1
+      }
+    ],
+    "productsinfo": [
+      {
+        "id": 1,
+        "image": "image-1708509949121-23010798-image 27.png",
+        "Special_feature": "Email, GPS, Notifications",
+        "Item_weight": "30 Grams",
+        "Compatible_Devices": "Smartphone",
+        "productId": 1
+      }
+    ],
+    "Faq": [
+      {
+        "id": 1,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      },
+      {
+        "id": 2,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": " Grey Cotton T-Shirt ",
+    "description": "Apple Watch Series 6",
+    "image": "productimage9.png",
+    "active": false,
+    "Featured": true,
+    "sellingproducts": false,
+    "topbrands": false,
+    "ArrivalsProducts": false,
+    "price": "$ 20.00",
+    "brandsId": 1,
+    "subcategoryId": 9,
+    "categoryId": 1,
+    "offer": "45%",
+    "new": "",
+    "top": "",
+    "sold": "",
+    "colors": [
+      {
+        "id": 1,
+        "color": "blue",
+        "color_code": "#0288D1",
+        "color_status": true
+      },
+      {
+        "id": 2,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      },
+      {
+        "id": 3,
+        "color": "orange",
+        "color_code": "#F57E5D",
+        "color_status": true
+      },
+      {
+        "id": 4,
+        "color": "red",
+        "color_code": "#D32F2F",
+        "color_status": true
+      },
+      {
+        "id": 5,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      }
+    ],
+    "product_color_image": [
+      {
+        "id": 1,
+        "productId": 1,
+        "color": {
+          "color_code": "#FF0000",
+          "color": "Red"
+        },
+        "image": "image-1708166818731-171466371-camra.png",
+        "price": "200"
+      }
+    ],
+    "brands": {
+      "brand_name": "apply",
+      "brand_description": "high cost"
+    },
+    "category": {
+      "name": "Watches"
+    },
+    "subcategory": {
+      "subcategory_name": "Men's Watches"
+    },
+    "Produsts_Review": [
+      {
+        "id": 1,
+        "rating": "14.89",
+        "comment": "A mauris amet, et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum. Aliquet sed in sit tellus lacus eu dolor vitae sed.",
+        "createdAt": "2024-02-20T17:49:39.433Z",
+        "user": {
+          "name": "manish",
+          "profile": null
+        }
+      }
+    ],
+    "ProductDetails": [
+      {
+        "id": 1,
+        "details": "Take calls and reply to texts. Id aliquam felis a egestas mi diam erat eu habitasse. Suscipit tincidunt sodales mauris ac, sed. Tempus lacus, consectetur neque, et. Vitae sapien, suspendisse eget maecenas sit pulvinar lectus. Tristique leo sit velit interdum vel. Donec non vitae quam est consequat tortor etiam in in.Elementum condimentum dis tortor ipsum duis amet, non. A mauris amet et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum.Aliquet sed in sit tellus lacus eu dolor vitae sed. Phasellus morbi aliquam sit in nulla consequat. Ut pretium sed nam rutrum cursus nisi felis cursus vestibulum. Sagittis platea venenatis at nibh tellus purus urna. Ultricies mauris scelerisque dictum diam aliquet urna elementum. Aliquam tortor egestas nisi placerat odio aliquet amet, rhoncus. Pellentesque magna vestibulum vivamus pulvinar consectetur diam libero ornare.",
+        "productId": 1
+      }
+    ],
+    "productsinfo": [
+      {
+        "id": 1,
+        "image": "image-1708509949121-23010798-image 27.png",
+        "Special_feature": "Email, GPS, Notifications",
+        "Item_weight": "30 Grams",
+        "Compatible_Devices": "Smartphone",
+        "productId": 1
+      }
+    ],
+    "Faq": [
+      {
+        "id": 1,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      },
+      {
+        "id": 2,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": " Grey Cotton T-Shirt ",
+    "description": "Apple Watch Series 6",
+    "image": "productimage10.png",
+    "active": false,
+    "Featured": true,
+    "sellingproducts": false,
+    "topbrands": false,
+    "ArrivalsProducts": false,
+    "price": "$ 20.00",
+    "brandsId": 1,
+    "subcategoryId": 9,
+    "categoryId": 1,
+    "offer": "",
+    "new": "New",
+    "top": "",
+    "sold": "",
+    "colors": [
+      {
+        "id": 1,
+        "color": "blue",
+        "color_code": "#0288D1",
+        "color_status": true
+      },
+      {
+        "id": 2,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      },
+      {
+        "id": 3,
+        "color": "orange",
+        "color_code": "#F57E5D",
+        "color_status": true
+      },
+      {
+        "id": 4,
+        "color": "red",
+        "color_code": "#D32F2F",
+        "color_status": true
+      },
+      {
+        "id": 5,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      }
+    ],
+    "product_color_image": [
+      {
+        "id": 1,
+        "productId": 1,
+        "color": {
+          "color_code": "#FF0000",
+          "color": "Red"
+        },
+        "image": "image-1708166818731-171466371-camra.png",
+        "price": "200"
+      }
+    ],
+    "brands": {
+      "brand_name": "apply",
+      "brand_description": "high cost"
+    },
+    "category": {
+      "name": "Watches"
+    },
+    "subcategory": {
+      "subcategory_name": "Men's Watches"
+    },
+    "Produsts_Review": [
+      {
+        "id": 1,
+        "rating": "14.89",
+        "comment": "A mauris amet, et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum. Aliquet sed in sit tellus lacus eu dolor vitae sed.",
+        "createdAt": "2024-02-20T17:49:39.433Z",
+        "user": {
+          "name": "manish",
+          "profile": null
+        }
+      }
+    ],
+    "ProductDetails": [
+      {
+        "id": 1,
+        "details": "Take calls and reply to texts. Id aliquam felis a egestas mi diam erat eu habitasse. Suscipit tincidunt sodales mauris ac, sed. Tempus lacus, consectetur neque, et. Vitae sapien, suspendisse eget maecenas sit pulvinar lectus. Tristique leo sit velit interdum vel. Donec non vitae quam est consequat tortor etiam in in.Elementum condimentum dis tortor ipsum duis amet, non. A mauris amet et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum.Aliquet sed in sit tellus lacus eu dolor vitae sed. Phasellus morbi aliquam sit in nulla consequat. Ut pretium sed nam rutrum cursus nisi felis cursus vestibulum. Sagittis platea venenatis at nibh tellus purus urna. Ultricies mauris scelerisque dictum diam aliquet urna elementum. Aliquam tortor egestas nisi placerat odio aliquet amet, rhoncus. Pellentesque magna vestibulum vivamus pulvinar consectetur diam libero ornare.",
+        "productId": 1
+      }
+    ],
+    "productsinfo": [
+      {
+        "id": 1,
+        "image": "image-1708509949121-23010798-image 27.png",
+        "Special_feature": "Email, GPS, Notifications",
+        "Item_weight": "30 Grams",
+        "Compatible_Devices": "Smartphone",
+        "productId": 1
+      }
+    ],
+    "Faq": [
+      {
+        "id": 1,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      },
+      {
+        "id": 2,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": " Grey Cotton T-Shirt ",
+    "description": "Apple Watch Series 6",
+    "image": "productimage11.png",
+    "active": false,
+    "Featured": true,
+    "sellingproducts": false,
+    "topbrands": false,
+    "ArrivalsProducts": false,
+    "price": "$ 20.00",
+    "brandsId": 1,
+    "subcategoryId": 9,
+    "categoryId": 1,
+    "offer": "45%",
+    "new": "",
+    "top": "",
+    "sold": "",
+    "colors": [
+      {
+        "id": 1,
+        "color": "blue",
+        "color_code": "#0288D1",
+        "color_status": true
+      },
+      {
+        "id": 2,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      },
+      {
+        "id": 3,
+        "color": "orange",
+        "color_code": "#F57E5D",
+        "color_status": true
+      },
+      {
+        "id": 4,
+        "color": "red",
+        "color_code": "#D32F2F",
+        "color_status": true
+      },
+      {
+        "id": 5,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      }
+    ],
+    "product_color_image": [
+      {
+        "id": 1,
+        "productId": 1,
+        "color": {
+          "color_code": "#FF0000",
+          "color": "Red"
+        },
+        "image": "image-1708166818731-171466371-camra.png",
+        "price": "200"
+      }
+    ],
+    "brands": {
+      "brand_name": "apply",
+      "brand_description": "high cost"
+    },
+    "category": {
+      "name": "Watches"
+    },
+    "subcategory": {
+      "subcategory_name": "Men's Watches"
+    },
+    "Produsts_Review": [
+      {
+        "id": 1,
+        "rating": "14.89",
+        "comment": "A mauris amet, et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum. Aliquet sed in sit tellus lacus eu dolor vitae sed.",
+        "createdAt": "2024-02-20T17:49:39.433Z",
+        "user": {
+          "name": "manish",
+          "profile": null
+        }
+      }
+    ],
+    "ProductDetails": [
+      {
+        "id": 1,
+        "details": "Take calls and reply to texts. Id aliquam felis a egestas mi diam erat eu habitasse. Suscipit tincidunt sodales mauris ac, sed. Tempus lacus, consectetur neque, et. Vitae sapien, suspendisse eget maecenas sit pulvinar lectus. Tristique leo sit velit interdum vel. Donec non vitae quam est consequat tortor etiam in in.Elementum condimentum dis tortor ipsum duis amet, non. A mauris amet et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum.Aliquet sed in sit tellus lacus eu dolor vitae sed. Phasellus morbi aliquam sit in nulla consequat. Ut pretium sed nam rutrum cursus nisi felis cursus vestibulum. Sagittis platea venenatis at nibh tellus purus urna. Ultricies mauris scelerisque dictum diam aliquet urna elementum. Aliquam tortor egestas nisi placerat odio aliquet amet, rhoncus. Pellentesque magna vestibulum vivamus pulvinar consectetur diam libero ornare.",
+        "productId": 1
+      }
+    ],
+    "productsinfo": [
+      {
+        "id": 1,
+        "image": "image-1708509949121-23010798-image 27.png",
+        "Special_feature": "Email, GPS, Notifications",
+        "Item_weight": "30 Grams",
+        "Compatible_Devices": "Smartphone",
+        "productId": 1
+      }
+    ],
+    "Faq": [
+      {
+        "id": 1,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      },
+      {
+        "id": 2,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": " Grey Cotton T-Shirt ",
+    "description": "Apple Watch Series 6",
+    "image": "productimage12.png",
+    "active": false,
+    "Featured": true,
+    "sellingproducts": false,
+    "topbrands": false,
+    "ArrivalsProducts": false,
+    "price": "$ 20.00",
+    "brandsId": 1,
+    "subcategoryId": 9,
+    "categoryId": 1,
+    "offer": "",
+    "new": "",
+    "sold": "Sold Out",
+    "top": "",
+    "colors": [
+      {
+        "id": 1,
+        "color": "blue",
+        "color_code": "#0288D1",
+        "color_status": true
+      },
+      {
+        "id": 2,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      },
+      {
+        "id": 3,
+        "color": "orange",
+        "color_code": "#F57E5D",
+        "color_status": true
+      },
+      {
+        "id": 4,
+        "color": "red",
+        "color_code": "#D32F2F",
+        "color_status": true
+      },
+      {
+        "id": 5,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      }
+    ],
+    "product_color_image": [
+      {
+        "id": 1,
+        "productId": 1,
+        "color": {
+          "color_code": "#FF0000",
+          "color": "Red"
+        },
+        "image": "image-1708166818731-171466371-camra.png",
+        "price": "200"
+      }
+    ],
+    "brands": {
+      "brand_name": "apply",
+      "brand_description": "high cost"
+    },
+    "category": {
+      "name": "Watches"
+    },
+    "subcategory": {
+      "subcategory_name": "Men's Watches"
+    },
+    "Produsts_Review": [
+      {
+        "id": 1,
+        "rating": "14.89",
+        "comment": "A mauris amet, et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum. Aliquet sed in sit tellus lacus eu dolor vitae sed.",
+        "createdAt": "2024-02-20T17:49:39.433Z",
+        "user": {
+          "name": "manish",
+          "profile": null
+        }
+      }
+    ],
+    "ProductDetails": [
+      {
+        "id": 1,
+        "details": "Take calls and reply to texts. Id aliquam felis a egestas mi diam erat eu habitasse. Suscipit tincidunt sodales mauris ac, sed. Tempus lacus, consectetur neque, et. Vitae sapien, suspendisse eget maecenas sit pulvinar lectus. Tristique leo sit velit interdum vel. Donec non vitae quam est consequat tortor etiam in in.Elementum condimentum dis tortor ipsum duis amet, non. A mauris amet et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum.Aliquet sed in sit tellus lacus eu dolor vitae sed. Phasellus morbi aliquam sit in nulla consequat. Ut pretium sed nam rutrum cursus nisi felis cursus vestibulum. Sagittis platea venenatis at nibh tellus purus urna. Ultricies mauris scelerisque dictum diam aliquet urna elementum. Aliquam tortor egestas nisi placerat odio aliquet amet, rhoncus. Pellentesque magna vestibulum vivamus pulvinar consectetur diam libero ornare.",
+        "productId": 1
+      }
+    ],
+    "productsinfo": [
+      {
+        "id": 1,
+        "image": "image-1708509949121-23010798-image 27.png",
+        "Special_feature": "Email, GPS, Notifications",
+        "Item_weight": "30 Grams",
+        "Compatible_Devices": "Smartphone",
+        "productId": 1
+      }
+    ],
+    "Faq": [
+      {
+        "id": 1,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      },
+      {
+        "id": 2,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": " Grey Cotton T-Shirt ",
+    "description": "Apple Watch Series 6",
+    "image": "productimage13.png",
+    "active": false,
+    "Featured": true,
+    "sellingproducts": false,
+    "topbrands": false,
+    "ArrivalsProducts": false,
+    "price": "$ 20.00",
+    "brandsId": 1,
+    "subcategoryId": 9,
+    "categoryId": 1,
+    "offer": "",
+    "sold": "",
+    "new": "",
+    "top": "Top Rated",
+    "colors": [
+      {
+        "id": 1,
+        "color": "blue",
+        "color_code": "#0288D1",
+        "color_status": true
+      },
+      {
+        "id": 2,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      },
+      {
+        "id": 3,
+        "color": "orange",
+        "color_code": "#F57E5D",
+        "color_status": true
+      },
+      {
+        "id": 4,
+        "color": "red",
+        "color_code": "#D32F2F",
+        "color_status": true
+      },
+      {
+        "id": 5,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      }
+    ],
+    "product_color_image": [
+      {
+        "id": 1,
+        "productId": 1,
+        "color": {
+          "color_code": "#FF0000",
+          "color": "Red"
+        },
+        "image": "image-1708166818731-171466371-camra.png",
+        "price": "200"
+      }
+    ],
+    "brands": {
+      "brand_name": "apply",
+      "brand_description": "high cost"
+    },
+    "category": {
+      "name": "Watches"
+    },
+    "subcategory": {
+      "subcategory_name": "Men's Watches"
+    },
+    "Produsts_Review": [
+      {
+        "id": 1,
+        "rating": "14.89",
+        "comment": "A mauris amet, et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum. Aliquet sed in sit tellus lacus eu dolor vitae sed.",
+        "createdAt": "2024-02-20T17:49:39.433Z",
+        "user": {
+          "name": "manish",
+          "profile": null
+        }
+      }
+    ],
+    "ProductDetails": [
+      {
+        "id": 1,
+        "details": "Take calls and reply to texts. Id aliquam felis a egestas mi diam erat eu habitasse. Suscipit tincidunt sodales mauris ac, sed. Tempus lacus, consectetur neque, et. Vitae sapien, suspendisse eget maecenas sit pulvinar lectus. Tristique leo sit velit interdum vel. Donec non vitae quam est consequat tortor etiam in in.Elementum condimentum dis tortor ipsum duis amet, non. A mauris amet et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum.Aliquet sed in sit tellus lacus eu dolor vitae sed. Phasellus morbi aliquam sit in nulla consequat. Ut pretium sed nam rutrum cursus nisi felis cursus vestibulum. Sagittis platea venenatis at nibh tellus purus urna. Ultricies mauris scelerisque dictum diam aliquet urna elementum. Aliquam tortor egestas nisi placerat odio aliquet amet, rhoncus. Pellentesque magna vestibulum vivamus pulvinar consectetur diam libero ornare.",
+        "productId": 1
+      }
+    ],
+    "productsinfo": [
+      {
+        "id": 1,
+        "image": "image-1708509949121-23010798-image 27.png",
+        "Special_feature": "Email, GPS, Notifications",
+        "Item_weight": "30 Grams",
+        "Compatible_Devices": "Smartphone",
+        "productId": 1
+      }
+    ],
+    "Faq": [
+      {
+        "id": 1,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      },
+      {
+        "id": 2,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": " Grey Cotton T-Shirt ",
+    "description": "Apple Watch Series 6",
+    "image": "productimage14.png",
+    "active": false,
+    "Featured": true,
+    "sellingproducts": false,
+    "topbrands": false,
+    "ArrivalsProducts": false,
+    "price": "$ 20.00",
+    "brandsId": 1,
+    "subcategoryId": 9,
+    "categoryId": 1,
+    "offer": "45%",
+    "new": "",
+    "top": "",
+    "sold": "",
+    "colors": [
+      {
+        "id": 1,
+        "color": "blue",
+        "color_code": "#0288D1",
+        "color_status": true
+      },
+      {
+        "id": 2,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      },
+      {
+        "id": 3,
+        "color": "orange",
+        "color_code": "#F57E5D",
+        "color_status": true
+      },
+      {
+        "id": 4,
+        "color": "red",
+        "color_code": "#D32F2F",
+        "color_status": true
+      },
+      {
+        "id": 5,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      }
+    ],
+    "product_color_image": [
+      {
+        "id": 1,
+        "productId": 1,
+        "color": {
+          "color_code": "#FF0000",
+          "color": "Red"
+        },
+        "image": "image-1708166818731-171466371-camra.png",
+        "price": "200"
+      }
+    ],
+    "brands": {
+      "brand_name": "apply",
+      "brand_description": "high cost"
+    },
+    "category": {
+      "name": "Watches"
+    },
+    "subcategory": {
+      "subcategory_name": "Men's Watches"
+    },
+    "Produsts_Review": [
+      {
+        "id": 1,
+        "rating": "14.89",
+        "comment": "A mauris amet, et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum. Aliquet sed in sit tellus lacus eu dolor vitae sed.",
+        "createdAt": "2024-02-20T17:49:39.433Z",
+        "user": {
+          "name": "manish",
+          "profile": null
+        }
+      }
+    ],
+    "ProductDetails": [
+      {
+        "id": 1,
+        "details": "Take calls and reply to texts. Id aliquam felis a egestas mi diam erat eu habitasse. Suscipit tincidunt sodales mauris ac, sed. Tempus lacus, consectetur neque, et. Vitae sapien, suspendisse eget maecenas sit pulvinar lectus. Tristique leo sit velit interdum vel. Donec non vitae quam est consequat tortor etiam in in.Elementum condimentum dis tortor ipsum duis amet, non. A mauris amet et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum.Aliquet sed in sit tellus lacus eu dolor vitae sed. Phasellus morbi aliquam sit in nulla consequat. Ut pretium sed nam rutrum cursus nisi felis cursus vestibulum. Sagittis platea venenatis at nibh tellus purus urna. Ultricies mauris scelerisque dictum diam aliquet urna elementum. Aliquam tortor egestas nisi placerat odio aliquet amet, rhoncus. Pellentesque magna vestibulum vivamus pulvinar consectetur diam libero ornare.",
+        "productId": 1
+      }
+    ],
+    "productsinfo": [
+      {
+        "id": 1,
+        "image": "image-1708509949121-23010798-image 27.png",
+        "Special_feature": "Email, GPS, Notifications",
+        "Item_weight": "30 Grams",
+        "Compatible_Devices": "Smartphone",
+        "productId": 1
+      }
+    ],
+    "Faq": [
+      {
+        "id": 1,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      },
+      {
+        "id": 2,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": " Grey Cotton T-Shirt ",
+    "description": "Apple Watch Series 6",
+    "image": "productimage15.png",
+    "active": false,
+    "Featured": true,
+    "sellingproducts": false,
+    "topbrands": false,
+    "ArrivalsProducts": false,
+    "price": "$ 20.00",
+    "brandsId": 1,
+    "subcategoryId": 9,
+    "categoryId": 1,
+    "offer": "",
+    "new": "New",
+    "sold": "",
+    "top": "",
+    "colors": [
+      {
+        "id": 1,
+        "color": "blue",
+        "color_code": "#0288D1",
+        "color_status": true
+      },
+      {
+        "id": 2,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      },
+      {
+        "id": 3,
+        "color": "orange",
+        "color_code": "#F57E5D",
+        "color_status": true
+      },
+      {
+        "id": 4,
+        "color": "red",
+        "color_code": "#D32F2F",
+        "color_status": true
+      },
+      {
+        "id": 5,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      }
+    ],
+    "product_color_image": [
+      {
+        "id": 1,
+        "productId": 1,
+        "color": {
+          "color_code": "#FF0000",
+          "color": "Red"
+        },
+        "image": "image-1708166818731-171466371-camra.png",
+        "price": "200"
+      }
+    ],
+    "brands": {
+      "brand_name": "apply",
+      "brand_description": "high cost"
+    },
+    "category": {
+      "name": "Watches"
+    },
+    "subcategory": {
+      "subcategory_name": "Men's Watches"
+    },
+    "Produsts_Review": [
+      {
+        "id": 1,
+        "rating": "14.89",
+        "comment": "A mauris amet, et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum. Aliquet sed in sit tellus lacus eu dolor vitae sed.",
+        "createdAt": "2024-02-20T17:49:39.433Z",
+        "user": {
+          "name": "manish",
+          "profile": null
+        }
+      }
+    ],
+    "ProductDetails": [
+      {
+        "id": 1,
+        "details": "Take calls and reply to texts. Id aliquam felis a egestas mi diam erat eu habitasse. Suscipit tincidunt sodales mauris ac, sed. Tempus lacus, consectetur neque, et. Vitae sapien, suspendisse eget maecenas sit pulvinar lectus. Tristique leo sit velit interdum vel. Donec non vitae quam est consequat tortor etiam in in.Elementum condimentum dis tortor ipsum duis amet, non. A mauris amet et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum.Aliquet sed in sit tellus lacus eu dolor vitae sed. Phasellus morbi aliquam sit in nulla consequat. Ut pretium sed nam rutrum cursus nisi felis cursus vestibulum. Sagittis platea venenatis at nibh tellus purus urna. Ultricies mauris scelerisque dictum diam aliquet urna elementum. Aliquam tortor egestas nisi placerat odio aliquet amet, rhoncus. Pellentesque magna vestibulum vivamus pulvinar consectetur diam libero ornare.",
+        "productId": 1
+      }
+    ],
+    "productsinfo": [
+      {
+        "id": 1,
+        "image": "image-1708509949121-23010798-image 27.png",
+        "Special_feature": "Email, GPS, Notifications",
+        "Item_weight": "30 Grams",
+        "Compatible_Devices": "Smartphone",
+        "productId": 1
+      }
+    ],
+    "Faq": [
+      {
+        "id": 1,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      },
+      {
+        "id": 2,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": " Grey Cotton T-Shirt ",
+    "description": "Apple Watch Series 6",
+    "image": "productimage16.png",
+    "active": false,
+    "Featured": true,
+    "sellingproducts": false,
+    "topbrands": false,
+    "ArrivalsProducts": false,
+    "price": "$ 20.00",
+    "brandsId": 1,
+    "subcategoryId": 9,
+    "categoryId": 1,
+    "offer": "45%",
+    "sold": "",
+    "new": "",
+    "top": "",
+    "colors": [
+      {
+        "id": 1,
+        "color": "blue",
+        "color_code": "#0288D1",
+        "color_status": true
+      },
+      {
+        "id": 2,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      },
+      {
+        "id": 3,
+        "color": "orange",
+        "color_code": "#F57E5D",
+        "color_status": true
+      },
+      {
+        "id": 4,
+        "color": "red",
+        "color_code": "#D32F2F",
+        "color_status": true
+      },
+      {
+        "id": 5,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      }
+    ],
+    "product_color_image": [
+      {
+        "id": 1,
+        "productId": 1,
+        "color": {
+          "color_code": "#FF0000",
+          "color": "Red"
+        },
+        "image": "image-1708166818731-171466371-camra.png",
+        "price": "200"
+      }
+    ],
+    "brands": {
+      "brand_name": "apply",
+      "brand_description": "high cost"
+    },
+    "category": {
+      "name": "Watches"
+    },
+    "subcategory": {
+      "subcategory_name": "Men's Watches"
+    },
+    "Produsts_Review": [
+      {
+        "id": 1,
+        "rating": "14.89",
+        "comment": "A mauris amet, et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum. Aliquet sed in sit tellus lacus eu dolor vitae sed.",
+        "createdAt": "2024-02-20T17:49:39.433Z",
+        "user": {
+          "name": "manish",
+          "profile": null
+        }
+      }
+    ],
+    "ProductDetails": [
+      {
+        "id": 1,
+        "details": "Take calls and reply to texts. Id aliquam felis a egestas mi diam erat eu habitasse. Suscipit tincidunt sodales mauris ac, sed. Tempus lacus, consectetur neque, et. Vitae sapien, suspendisse eget maecenas sit pulvinar lectus. Tristique leo sit velit interdum vel. Donec non vitae quam est consequat tortor etiam in in.Elementum condimentum dis tortor ipsum duis amet, non. A mauris amet et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum.Aliquet sed in sit tellus lacus eu dolor vitae sed. Phasellus morbi aliquam sit in nulla consequat. Ut pretium sed nam rutrum cursus nisi felis cursus vestibulum. Sagittis platea venenatis at nibh tellus purus urna. Ultricies mauris scelerisque dictum diam aliquet urna elementum. Aliquam tortor egestas nisi placerat odio aliquet amet, rhoncus. Pellentesque magna vestibulum vivamus pulvinar consectetur diam libero ornare.",
+        "productId": 1
+      }
+    ],
+    "productsinfo": [
+      {
+        "id": 1,
+        "image": "image-1708509949121-23010798-image 27.png",
+        "Special_feature": "Email, GPS, Notifications",
+        "Item_weight": "30 Grams",
+        "Compatible_Devices": "Smartphone",
+        "productId": 1
+      }
+    ],
+    "Faq": [
+      {
+        "id": 1,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      },
+      {
+        "id": 2,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": " Grey Cotton T-Shirt ",
+    "description": "Apple Watch Series 6",
+    "image": "productimage17.png",
+    "active": false,
+    "Featured": true,
+    "sellingproducts": false,
+    "topbrands": false,
+    "ArrivalsProducts": false,
+    "price": "$ 20.00",
+    "brandsId": 1,
+    "subcategoryId": 9,
+    "categoryId": 1,
+    "offer": "",
+    "sold": "",
+    "new": "new",
+    "top": "",
+    "colors": [
+      {
+        "id": 1,
+        "color": "blue",
+        "color_code": "#0288D1",
+        "color_status": true
+      },
+      {
+        "id": 2,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      },
+      {
+        "id": 3,
+        "color": "orange",
+        "color_code": "#F57E5D",
+        "color_status": true
+      },
+      {
+        "id": 4,
+        "color": "red",
+        "color_code": "#D32F2F",
+        "color_status": true
+      },
+      {
+        "id": 5,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      }
+    ],
+    "product_color_image": [
+      {
+        "id": 1,
+        "productId": 1,
+        "color": {
+          "color_code": "#FF0000",
+          "color": "Red"
+        },
+        "image": "image-1708166818731-171466371-camra.png",
+        "price": "200"
+      }
+    ],
+    "brands": {
+      "brand_name": "apply",
+      "brand_description": "high cost"
+    },
+    "category": {
+      "name": "Watches"
+    },
+    "subcategory": {
+      "subcategory_name": "Men's Watches"
+    },
+    "Produsts_Review": [
+      {
+        "id": 1,
+        "rating": "14.89",
+        "comment": "A mauris amet, et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum. Aliquet sed in sit tellus lacus eu dolor vitae sed.",
+        "createdAt": "2024-02-20T17:49:39.433Z",
+        "user": {
+          "name": "manish",
+          "profile": null
+        }
+      }
+    ],
+    "ProductDetails": [
+      {
+        "id": 1,
+        "details": "Take calls and reply to texts. Id aliquam felis a egestas mi diam erat eu habitasse. Suscipit tincidunt sodales mauris ac, sed. Tempus lacus, consectetur neque, et. Vitae sapien, suspendisse eget maecenas sit pulvinar lectus. Tristique leo sit velit interdum vel. Donec non vitae quam est consequat tortor etiam in in.Elementum condimentum dis tortor ipsum duis amet, non. A mauris amet et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum.Aliquet sed in sit tellus lacus eu dolor vitae sed. Phasellus morbi aliquam sit in nulla consequat. Ut pretium sed nam rutrum cursus nisi felis cursus vestibulum. Sagittis platea venenatis at nibh tellus purus urna. Ultricies mauris scelerisque dictum diam aliquet urna elementum. Aliquam tortor egestas nisi placerat odio aliquet amet, rhoncus. Pellentesque magna vestibulum vivamus pulvinar consectetur diam libero ornare.",
+        "productId": 1
+      }
+    ],
+    "productsinfo": [
+      {
+        "id": 1,
+        "image": "image-1708509949121-23010798-image 27.png",
+        "Special_feature": "Email, GPS, Notifications",
+        "Item_weight": "30 Grams",
+        "Compatible_Devices": "Smartphone",
+        "productId": 1
+      }
+    ],
+    "Faq": [
+      {
+        "id": 1,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      },
+      {
+        "id": 2,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": " Grey Cotton T-Shirt ",
+    "description": "Apple Watch Series 6",
+    "image": "productimage18.png",
+    "active": false,
+    "Featured": true,
+    "sellingproducts": false,
+    "topbrands": false,
+    "ArrivalsProducts": false,
+    "price": "$ 20.00",
+    "brandsId": 1,
+    "subcategoryId": 9,
+    "categoryId": 1,
+    "offer": "",
+    "new": "",
+    "sold": "Sold Out",
+    "top": "",
+    "colors": [
+      {
+        "id": 1,
+        "color": "blue",
+        "color_code": "#0288D1",
+        "color_status": true
+      },
+      {
+        "id": 2,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      },
+      {
+        "id": 3,
+        "color": "orange",
+        "color_code": "#F57E5D",
+        "color_status": true
+      },
+      {
+        "id": 4,
+        "color": "red",
+        "color_code": "#D32F2F",
+        "color_status": true
+      },
+      {
+        "id": 5,
+        "color": "green",
+        "color_code": "#02A77D",
+        "color_status": true
+      }
+    ],
+    "product_color_image": [
+      {
+        "id": 1,
+        "productId": 1,
+        "color": {
+          "color_code": "#FF0000",
+          "color": "Red"
+        },
+        "image": "image-1708166818731-171466371-camra.png",
+        "price": "200"
+      }
+    ],
+    "brands": {
+      "brand_name": "apply",
+      "brand_description": "high cost"
+    },
+    "category": {
+      "name": "Watches"
+    },
+    "subcategory": {
+      "subcategory_name": "Men's Watches"
+    },
+    "Produsts_Review": [
+      {
+        "id": 1,
+        "rating": "14.89",
+        "comment": "A mauris amet, et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum. Aliquet sed in sit tellus lacus eu dolor vitae sed.",
+        "createdAt": "2024-02-20T17:49:39.433Z",
+        "user": {
+          "name": "manish",
+          "profile": null
+        }
+      }
+    ],
+    "ProductDetails": [
+      {
+        "id": 1,
+        "details": "Take calls and reply to texts. Id aliquam felis a egestas mi diam erat eu habitasse. Suscipit tincidunt sodales mauris ac, sed. Tempus lacus, consectetur neque, et. Vitae sapien, suspendisse eget maecenas sit pulvinar lectus. Tristique leo sit velit interdum vel. Donec non vitae quam est consequat tortor etiam in in.Elementum condimentum dis tortor ipsum duis amet, non. A mauris amet et molestie urna ut. Felis, eros varius molestie amet, quisque potenti pharetra aenean. Habitant morbi vehicula cras urna et sit hendrerit nunc aenean. In arcu, egestas tincidunt sem vitae suscipit nisl interdum.Aliquet sed in sit tellus lacus eu dolor vitae sed. Phasellus morbi aliquam sit in nulla consequat. Ut pretium sed nam rutrum cursus nisi felis cursus vestibulum. Sagittis platea venenatis at nibh tellus purus urna. Ultricies mauris scelerisque dictum diam aliquet urna elementum. Aliquam tortor egestas nisi placerat odio aliquet amet, rhoncus. Pellentesque magna vestibulum vivamus pulvinar consectetur diam libero ornare.",
+        "productId": 1
+      }
+    ],
+    "productsinfo": [
+      {
+        "id": 1,
+        "image": "image-1708509949121-23010798-image 27.png",
+        "Special_feature": "Email, GPS, Notifications",
+        "Item_weight": "30 Grams",
+        "Compatible_Devices": "Smartphone",
+        "productId": 1
+      }
+    ],
+    "Faq": [
+      {
+        "id": 1,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      },
+      {
+        "id": 2,
+        "question": "Sed eu, fames at accumsan vitae in tristique turpis.",
+        "answer": "Consectetur adipiscing elit. Amet mauris eget vestibulum tempor, maecenas. Mattis egestas augue vitae in sed ut. Nec donec massa, at scelerisque tempor, elit vitae aliquam. Donec pulvinar sollicitudin feugiat diam iaculis pulvinar faucibus suspendisse tincidunt.",
+        "productId": 1
+      }
+    ]
+  }
+]

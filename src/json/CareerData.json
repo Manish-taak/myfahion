@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "JobsName": "Lead Manager",
+    "image": "LeadManager",
+    "job": "12 jobs"
+  },
+  {
+    "id": 2,
+    "JobsName": "Assistant Manager",
+    "image": "AssistantManager",
+    "job": "2 jobs"
+  },
+  {
+    "id": 3,
+    "JobsName": "HR Executive",
+    "image": "HRExecutive",
+    "job": "3 jobs"
+  },
+  {
+    "id": 4,
+    "JobsName": "Business Development",
+    "image": "BusinessDevelopment",
+    "job": "4 jobs"
+  },
+  {
+    "id": 5,
+    "JobsName": "AccountDepartment",
+    "image": "AccountDepartment",
+    "job": "5 jobs"
+  },
+  {
+    "id": 6,
+    "JobsName": "Sales Department",
+    "image": "SalesDepartment",
+    "job": "6 jobs"
+  },
+  {
+    "id": 7,
+    "JobsName": "Designing",
+    "image": "Designing",
+    "job": "7 jobs"
+  },
+  {
+    "id": 8,
+    "JobsName": "Content Writer",
+    "image": "ContentWriter",
+    "job": "8 jobs"
+  },
+  {
+    "id": 9,
+    "JobsName": "Custoer Service",
+    "image": "CustoerService",
+    "job": "9 jobs"
+  },
+  {
+    "id": 10,
+    "JobsName": "Legal Department",
+    "image": "LegalDepartment",
+    "job": "10 jobs"
+  },
+  {
+    "id": 11,
+    "JobsName": "Research Department",
+    "image": "ResearchDepartment",
+    "job": "11 jobs"
+  },
+
+  {
+    "id": 12,
+    "JobsName": "Data Analysis",
+    "image": "DataAnalysis",
+    "job": "12 jobs"
+  }
+]

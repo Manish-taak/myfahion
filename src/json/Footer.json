@@ -1,0 +1,144 @@
+{
+    "shopping": [
+        {
+            "id": 1,
+            "name": "Man's Fashion",
+            "href": "/products"
+        },
+        {
+            "id": 2,
+            "name": "Women's Fashion",
+            "href": "/products"
+        },
+        {
+            "id": 3,
+            "name": "Kid's Fashion",
+            "href": "/products"
+        },
+        {
+            "id": 4,
+            "name": "New Arrivals",
+            "href": "/new-arrivals"
+        },
+        {
+            "id": 5,
+            "name": "Deals On Sale",
+            "href": "/deals-on-sale"
+        }
+    ],
+    "helpdesk": [
+        {
+            "id": 1,
+            "name": "Returns",
+            "href": "/profile/orders"
+        },
+        {
+            "id": 2,
+            "name": "Track Order",
+            "href": "/profile/orders"
+        },
+        {
+            "id": 3,
+            "name": "Payments",
+            "href": "payment-policy"
+        },
+        {
+            "id": 4,
+            "name": "Return Policy",
+            "href": "/return-refund-policy"
+        },
+        {
+            "id": 5,
+            "name": "Customer Support",
+            "href": "/customer-support"
+        }
+    ],
+    "Company": [
+        {
+            "id": 1,
+            "name": "About Us",
+            "href": "/about-us"
+        },
+        {
+            "id": 2,
+            "name": "Blog",
+            "href": "/blog-details"
+        },
+        {
+            "id": 3,
+            "name": "Career",
+            "href": "/career"
+        },
+        {
+            "id": 4,
+            "name": "Contact Us",
+            "href": "/contact-us"
+        },
+        {
+            "id": 5,
+            "name": "Help Center",
+            "href": "/profile/help-center"
+        }
+    ],
+    "PopularSearches": [
+        {
+            "id": 1,
+            "name": "Handbag",
+            "href": "/products"
+        },
+        {
+            "id": 2,
+            "name": "Wallet",
+            "href": "/products"
+        },
+        {
+            "id": 3,
+            "name": "Bagpack",
+            "href": "/products"
+        },
+        {
+            "id": 4,
+            "name": "Sport Shoes    ",
+            "href": "/products"
+        },
+        {
+            "id": 5,
+            "name": "Sandals",
+            "href": "/products"
+        },
+        {
+            "id": 6,
+            "name": "Ethnic Wear",
+            "href": "/products"
+        },
+        {
+            "id": 7,
+            "name": "Casual Shoes",
+            "href": "/products"
+        },
+        {
+            "id": 8,
+            "name": "Designer Kurta Set",
+            "href": "/products"
+        },
+        {
+            "id": 9,
+            "name": "Loafers",
+            "href": "/products"
+        },
+        {
+            "id": 10,
+            "name": "Banarsi Saree",
+            "href": "/products"
+        }
+    ],
+    "paymentimages": [
+        "pay1",
+        "pay2",
+        "pay3",
+        "pay4",
+        "pay5",
+        "pay6",
+        "pay7"
+    ]
+}

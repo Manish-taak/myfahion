@@ -1,0 +1,32 @@
+[
+    {
+        "id": 27,
+        "name": "HDFC Bank",
+        "logo": "hdfc.png"
+    },
+    {
+        "id": 28,
+        "name": "Punjab National Bank",
+        "logo": "punjabbank.png"
+    },
+    {
+        "id": 29,
+        "name": "Bank Of India",
+        "logo": "bankofindiabank.png"
+    },
+    {
+        "id": 30,
+        "name": "ICICI Bank",
+        "logo": "icicbank.png"
+    },
+    {
+        "id": 31,
+        "name": "Union Bank",
+        "logo": "unionbank.png"
+    },
+    {
+        "id": 32,
+        "name": "Cencel",
+        "logo": ""
+    }
+]

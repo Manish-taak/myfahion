@@ -1,0 +1,27 @@
+[
+    {
+        "id": 10,
+        "name": "HDFC Bank",
+        "logoSrc": "/images/hdfc.png"
+    },
+    {
+        "id": 11,
+        "name": "Punjab National Bank",
+        "logoSrc": "/images/punjabbank.png"
+    },
+    {
+        "id": 12,
+        "name": "Bank Of India",
+        "logoSrc": "/images/bankofindiabank.png"
+    },
+    {
+        "id": 13,
+        "name": "ICICI Bank",
+        "logoSrc": "/images/icicbank.png"
+    },
+    {
+        "id": 14,
+        "name": "Union Bank",
+        "logoSrc": "/images/unionbank.png"
+    }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Account Setting",
+    "image": "account",
+    "link": "basic-Information"
+  },
+  {
+    "id": 2,
+    "name": "My Address",
+    "image": "Address",
+    "link": "address"
+  },
+  {
+    "id": 3,
+    "name": "Payment Options",
+    "image": "Payment",
+    "link": "payment-options"
+  },
+  {
+    "id": 4,
+    "name": "My Orders",
+    "image": "MyWishlist",
+    "link": "orders"
+  },
+  {
+    "id": 5,
+    "name": "My Wishlist",
+    "image": "myorder",
+    "link": "wishlist"
+  },
+  {
+    "id": 6,
+    "name": "Review & Rating",
+    "image": "Review",
+    "link": "review-rating"
+  },
+  {
+    "id": 7,
+    "name": "My Coupons",
+    "image": "Coupons",
+    "link": "coupons"
+  },
+  {
+    "id": 8,
+    "name": "Help Center",
+    "image": "HelpCenter",
+    "link": "help-center"
+  }
+]

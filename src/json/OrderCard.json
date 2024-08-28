@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "tittle": "Men Regular Fit Printed Casual Shirt.",
+    "size": "string",
+    "color": "Navy Blue",
+    "colorvarient": "#02A77D",
+    "price": "$65.00",
+    "currentposition": "string",
+    "description": "Delivered On (28 Aug, Saturday)",
+    "orderid": false,
+    "orderdetail": "string",
+    "refundid": "boolean",
+    "refunddetail": "string",
+    "imgpath": "string",
+    "Rateproduct": false,
+    "Returnproduct": false,
+    "helpproduct": false
+  }
+]

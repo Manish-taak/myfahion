@@ -1,0 +1,82 @@
+[
+  {
+    "image": "hoodie1.png",
+    "tittle": " Jacket Hood Dress T-shirt",
+    "price": "$ 20.00",
+    "oldprice": "$32.00",
+    "discount": "(15% Off)",
+    "star": "star.svg",
+    "like": "Like.svg",
+    "rating": "4.5 (200)"
+  },
+  {
+    "image": "hoodie2.png",
+    "tittle": "Dress Shirt Crop top Clothing Full...",
+    "price": "$ 20.00",
+    "oldprice": "$32.00",
+    "discount": "(15% Off)",
+    "star": "star.svg",
+    "like": "Like.svg",
+    "rating": "4.5 (200)"
+  },
+  {
+    "image": "hoodie3.png",
+    "tittle": "Bell sleeve Dress T-shirt",
+    "price": "$ 20.00",
+    "oldprice": "$32.00",
+    "discount": "(15% Off)",
+    "star": "star.svg",
+    "like": "Like.svg",
+    "rating": "4.5 (200)"
+  },
+  {
+    "image": "hoodie4.png",
+    "tittle": "Scarf Winter Fashion Wool ...",
+    "price": "$ 20.00",
+    "oldprice": "$32.00",
+    "discount": "(15% Off)",
+    "star": "star.svg",
+    "like": "Like.svg",
+    "rating": "4.5 (200)"
+  },
+  {
+    "image": "hoodie5.png",
+    "tittle": "Baby T-shirt",
+    "price": "$ 20.00",
+    "oldprice": "$32.00",
+    "discount": "(15% Off)",
+    "star": "star.svg",
+    "like": "Like.svg",
+    "rating": "4.5 (200)"
+  },
+  {
+    "image": "hoodie6.png",
+    "tittle": "Toddlers Brown and White Full...",
+    "price": "$ 20.00",
+    "oldprice": "$32.00",
+    "discount": "(15% Off)",
+    "star": "star.svg",
+    "like": "Like.svg",
+    "rating": "4.5 (200)"
+  },
+  {
+    "image": "hoodie7.png",
+    "tittle": "Louis Vuitton Backpack Handbag",
+    "price": "$ 20.00",
+    "oldprice": "$32.00",
+    "discount": "(15% Off)",
+    "star": "star.svg",
+    "like": "Like.svg",
+    "rating": "4.5 (200)"
+  },
+  {
+    "image": "hoodie8.png",
+    "tittle": "Toread Bagpack...",
+    "price": "$ 20.00",
+    "oldprice": "$32.00",
+    "discount": "(15% Off)",
+    "star": "star.svg",
+    "like": "Like.svg",
+    "rating": "4.5 (200)"
+  }
+]

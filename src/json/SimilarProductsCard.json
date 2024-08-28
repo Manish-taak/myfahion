@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": " Top Brands Kidswear",
+    "price": "$40.00/-",
+    "image": "glassescollection.png"
+  },
+  {
+    "id": 2,
+    "name": " Top Brands Kidswear",
+    "price": "$40.00/-",
+    "image": "topcollection.png"
+  },
+  {
+    "id": 3,
+    "name": " Top Brands Kidswear",
+    "price": "$40.00/-",
+    "image": "glassescollection.png"
+  },
+  {
+    "id": 4,
+    "name": " Top Brands Kidswear",
+    "price": "$40.00/-",
+    "image": "topcollection.png"
+  }
+]

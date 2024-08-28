@@ -1,0 +1,110 @@
+ [
+    {
+      "id": 1,
+      "image": "exploreimage1.png",
+      "name": "Flip Flops",
+      "discount": "Get Upto 40% Off"
+    },
+    {
+      "id": 2,
+      "image": "exploreimage2.png",
+      "name": "Bag Sets",
+      "discount": "Get Upto 40% Off"
+    },
+    {
+      "id": 3,
+      "image": "exploreimage3.png",
+      "name": "Wallets",
+      "discount": "Get Upto 40% Off"
+    },
+    {
+      "id": 4,
+      "image": "exploreimage4.png",
+      "name": "Deo-Drantes",
+      "discount": "Get Upto 40% Off"
+    },
+    {
+      "id": 5,
+      "image": "exploreimage5.png",
+      "name": "Winter Coats",
+      "discount": "Get Upto 40% Off"
+    },
+    {
+      "id": 6,
+      "image": "exploreimage6.png",
+      "name": "Luxury Watches",
+      "discount": "Get Upto 40% Off"
+    },
+    {
+      "id": 7,
+      "image": "exploreimage7.png",
+      "name": "Formal Shoes",
+      "discount": "Get Upto 40% Off"
+    },
+    {
+      "id": 8,
+      "image": "exploreimage8.png",
+      "name": "Bellats",
+      "discount": "Get Upto 40% Off"
+    },
+    {
+      "id": 9,
+      "image": "exploreimage9.png",
+      "name": "Luxury Perfumes",
+      "discount": "Get Upto 40% Off"
+    },
+    {
+      "id": 10,
+      "image": "exploreimage10.png",
+      "name": "Perfumes",
+      "discount": "Get Upto 40% Off"
+    },
+    {
+      "id": 11,
+      "image": "exploreimage11.png",
+      "name": "Casual Shoes",
+      "discount": "Get Upto 40% Off"
+    },
+    {
+      "id": 12,
+      "image": "exploreimage12.png",
+      "name": "Leather Boots",
+      "discount": "Get Upto 40% Off"
+    },
+    {
+      "id": 13,
+      "image": "exploreimage13.png",
+      "name": "Rubber Shoes",
+      "discount": "Get Upto 40% Off"
+    },
+    {
+      "id": 14,
+      "image": "exploreimage14.png",
+      "name": "Shirts",
+      "discount": "Get Upto 40% Off"
+    },
+    {
+      "id": 15,
+      "image": "exploreimage15.png",
+      "name": "Swet Shirts",
+      "discount": "Get Upto 40% Off"
+    },
+    {
+      "id": 16,
+      "image": "exploreimage16.png",
+      "name": "Hair Wax",
+      "discount": "Get Upto 40% Off"
+    },
+    {
+      "id": 17,
+      "image": "exploreimage17.png",
+      "name": "T-Shirts",
+      "discount": "Get Upto 40% Off"
+    },
+    {
+      "id": 18,
+      "image": "exploreimage18.png",
+      "name": "Full Suits",
+      "discount": "Get Upto 40% Off"
+    }
+  ]

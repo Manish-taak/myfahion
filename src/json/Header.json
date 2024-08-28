@@ -1,0 +1,372 @@
+{
+  "centuryList": [
+    {
+      "id": 1,
+      "century": "(₹) INR",
+      "image": "india.png"
+    },
+    {
+      "id": 2,
+      "century": "$ USD",
+      "image": "india.png"
+    },
+    {
+      "id": 3,
+      "century": "(₤) EUR",
+      "image": "india.png"
+    },
+    {
+      "id": 4,
+      "century": "(¥) YEN",
+      "image": "india.png"
+    },
+    {
+      "id": 5,
+      "century": "(¥) MKD",
+      "image": "india.png"
+    }
+  ],
+  "language": [
+    {
+      "id": 1,
+      "language": "IND",
+      "image": "india.png"
+    },
+    {
+      "id": 2,
+      "language": "US",
+      "image": "india.png"
+    },
+    {
+      "id": 3,
+      "language": "CAN",
+      "image": "india.png"
+    },
+    {
+      "id": 4,
+      "language": "KHM",
+      "image": "india.png"
+    },
+    {
+      "id": 5,
+      "language": "BDI",
+      "image": "india.png"
+    }
+  ],
+  "allcategoryList": [
+    {
+      "id": 1,
+      "categoryName": "Men Fashion"
+    },
+    {
+      "id": 2,
+      "categoryName": "Women's Fashion"
+    },
+    {
+      "id": 3,
+      "categoryName": "Kid's Fashion"
+    },
+    {
+      "id": 4,
+      "categoryName": "Men Fashion"
+    },
+    {
+      "id": 5,
+      "categoryName": "Women's Fashion"
+    }
+  ],
+  "Dropdowndata": [
+    {
+      "id": 1,
+      "categoryName": "Man's Fashion",
+      "dropdata": [
+        {
+          "id": 1,
+          "heading": "Top Wear",
+          "list": [
+            "Colar T-Shirts",
+            "Round Neck T-Shirts",
+            "T-Shirts",
+            "Casual Shirts",
+            "Formal Shirts",
+            "Sweaters",
+            "Jackets",
+            "Sweat Shirts"
+          ]
+        },
+        {
+          "id": 2,
+          "heading": "Bottom Wear",
+          "list": [
+            "Jeans",
+            "Casual Trousers",
+            "Formal Trousers",
+            "Shorts",
+            "Joggers",
+            "Cargo Pants",
+            "Track Pants",
+            "Three Fourths"
+          ]
+        },
+        {
+          "id": 3,
+          "heading": "Footwear",
+          "list": [
+            "Sports Shoes",
+            "Casual Shoes",
+            "Formal Shoes",
+            "Flip-Flops",
+            "Loafers",
+            "Boots",
+            "Sneakers",
+            "Socks"
+          ]
+        },
+        {
+          "id": 4,
+          "heading": "Ethnic Wear",
+          "list": [
+            "Kurtas",
+            "Sherwanis",
+            "Dhoti",
+            "Sherwani Set",
+            "Kurta Pajama Set",
+            "Festival Season",
+            "Nehru Jackets",
+            "white Kurta Pajamas"
+          ]
+        },
+        {
+          "id": 5,
+          "heading": "Accessories",
+          "list": [
+            "Wallets",
+            "Belts",
+            "Trimmers",
+            "Deodrants",
+            "Tie Set",
+            "Henkey Set",
+            "Gloves",
+            "Sunglasses"
+          ]
+        },
+        {
+          "id": 6,
+          "heading": "Featured Searches",
+          "list": [
+            "Fogg Deodrants",
+            "Bagpack For Office",
+            "Adidas Shoes",
+            "Denim Shirts",
+            "Casual Shoes",
+            "T-Shirts",
+            "Perfumes",
+            "Trimmeres"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "categoryName": "Women's Fashion",
+      "dropdata": [
+        {
+          "id": 1,
+          "heading": "Clothes Wear",
+          "list": [
+            "Kurtas & Suits",
+            "Tops",
+            "Sarees",
+            "Ethnic Wear",
+            "Leggings & Salwars",
+            "Blouse",
+            "Lehenga Choli",
+            "Dupattas"
+          ]
+        },
+        {
+          "id": 2,
+          "heading": "Bottom Wear",
+          "list": [
+            "Gowns",
+            "Skirts",
+            "Shorts",
+            "Jeans",
+            "Joggers",
+            "Cargo Pants",
+            "Joggings & Tights",
+            "Trousers & Capris"
+          ]
+        },
+        {
+          "id": 3,
+          "heading": "Footwear",
+          "list": [
+            "Sports Shoes",
+            "Casual Shoes",
+            "Flats",
+            "High Heels",
+            "Floaters",
+            "Boots",
+            "Sneakers",
+            "Wedges"
+          ]
+        },
+        {
+          "id": 4,
+          "heading": "Beauty",
+          "list": [
+            "Make Up Kit",
+            "Skin Care",
+            "Hair Care",
+            "Deodorants & Perfumes",
+            "Premium Beauty",
+            "Lipsticks",
+            "Bath & Spa",
+            "Face Wash"
+          ]
+        },
+        {
+          "id": 5,
+          "heading": "Accessories",
+          "list": [
+            "Shoulder Bags",
+            "Sling Bags",
+            "Wallets & Belts",
+            "Travel Bag",
+            "Sunglasses",
+            "Handbags",
+            "Clutches",
+            "Frames"
+          ]
+        },
+        {
+          "id": 6,
+          "heading": "Featured Searches",
+          "list": [
+            "Pantaloons",
+            "Office Bag",
+            "Adidas Shoes",
+            "Nivea",
+            "Fastrack",
+            "Rare Roots",
+            "Perfumes",
+            "Catwalk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "categoryName": "Kid's Fashion",
+      "dropdata": [
+        {
+          "id": 1,
+          "heading": "Shop By Age",
+          "list": [
+            "0 - 6 Months",
+            "6 - 12 Months",
+            "12 - 18 Months",
+            "18 - 24 Months",
+            "2 - 6 Years",
+            "6 - 10 Years",
+            "10 - 14 Years",
+            "14 - 18 Years"
+          ]
+        },
+        {
+          "id": 2,
+          "heading": "Girl’s Clothes",
+          "list": [
+            "Dresses",
+            "Tops",
+            "Tshirts",
+            "Clothing Sets",
+            "Kurta Sets",
+            "Party wear",
+            "Jumpsuits",
+            "Skirts & shorts"
+          ]
+        },
+        {
+          "id": 3,
+          "heading": "Boy Clothes",
+          "list": [
+            "T-Shirts",
+            "Shorts",
+            "Trousers",
+            "Jeans",
+            "Ethnic Wear",
+            "Track Pants & Pyjamas",
+            "Party Wear",
+            "Nightwear"
+          ]
+        },
+        {
+          "id": 4,
+          "heading": "Baby Care",
+          "list": [
+            "Diapers ",
+            "Wipes",
+            "Potty Training Seat",
+            "Skin Care",
+            "Baby Bath & Hair",
+            "Baby Gift Sets",
+            "Baby Grooming",
+            "Oral Care"
+          ]
+        },
+        {
+          "id": 5,
+          "heading": "Footwear",
+          "list": [
+            "Casual Shoes",
+            "Flipflops",
+            "Sports Shoes",
+            "Sandals",
+            "Flats",
+            "School Shoes",
+            "Socks",
+            "Formal Shoes"
+          ]
+        },
+        {
+          "id": 6,
+          "heading": "Accessories",
+          "list": [
+            "Shoulder Bags",
+            "Watches",
+            "Wallets & Belts",
+            "Hair Care",
+            "Sunglasses",
+            "Masks",
+            "Protective Gears",
+            "Caps & Hats"
+          ]
+        }
+      ]
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "New Arrivals",
+      "link": "new-arrivals"
+    },
+    {
+      "id": 2,
+      "categoryName": "Deals On Sale",
+      "link": "deals-on-sale"
+    },
+    {
+      "id": 3,
+      "categoryName": "Blog",
+      "link": "blog-post"
+    },
+    {
+      "id": 4,
+      "categoryName": "My Order",
+      "link": "profile/orders"
+    }
+  ]
+}

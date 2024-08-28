@@ -1,0 +1,324 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id              String            @id @default(auto()) @map("_id") @db.ObjectId
+  firstname       String
+  lastname        String
+  email           String            @unique
+  mobile          Int               @unique
+  password        String
+  address         String
+  dob             String
+  profilePic      String
+  gender          gender
+  userStatus      userStatus       @default(active)
+  createdAt       DateTime          @default(now())
+  updatedAt       DateTime          @updatedAt
+  order           order[]
+  wishlist        wishlist[]
+  cart            cart[]
+  shippingAddress shippingaddress[]
+  paymentWay      paymentway[]
+  review          review[]
+  Profile         Profile?
+  Admin           Admin[]
+}
+
+model Admin {
+  id     String  @id @default(auto()) @map("_id") @db.ObjectId
+  name   String
+  User   User?   @relation(fields: [userId], references: [id])
+  userId String? @db.ObjectId
+}
+
+model Profile {
+  id     String @id @default(auto()) @map("_id") @db.ObjectId
+  user   User   @relation(fields: [userId], references: [id])
+  userId String @unique @db.ObjectId
+}
+
+model brand {
+  id        String     @id @default(auto()) @map("_id") @db.ObjectId
+  brandName String
+  brandLogo String
+  isActive  Boolean
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+  product   Products[]
+}
+
+model category {
+  id           String        @id @default(auto()) @map("_id") @db.ObjectId
+  categoryName String
+  description  String
+  thumbnail    String
+  createdAt    DateTime      @default(now())
+  updatedAt    DateTime
+  product      Products[]
+  subategory   subcategory[]
+}
+
+model subcategory {
+  id         String     @id @default(auto()) @map("_id") @db.ObjectId
+  isActive   Boolean
+  thumbnail  String
+  Products   Products[]
+  category   category?  @relation(fields: [categoryId], references: [id])
+  categoryId String?    @db.ObjectId
+}
+
+model product_color_image {
+  id         String    @id @default(auto()) @map("_id") @db.ObjectId
+  image      String
+  price      String
+  color      color?    @relation(fields: [colorId], references: [id])
+  colorId    String?   @db.ObjectId
+  Products   Products? @relation(fields: [productsId], references: [id])
+  productsId String?   @db.ObjectId
+}
+
+model color {
+  id                String                @id @default(auto()) @map("_id") @db.ObjectId
+  color             String
+  colorCode         String
+  colorStatus       Boolean
+  productColorImage product_color_image[]
+}
+
+model Products {
+  id                String                @id @default(auto()) @map("_id") @db.ObjectId
+  name              String
+  description       String
+  productImage      String
+  thumbnailImage    String
+  stock             Int
+  color             String
+  brand             brand?                @relation(fields: [brandid], references: [id])
+  brandid           String                @db.ObjectId
+  category          category?             @relation(fields: [categoryId], references: [id])
+  categoryId        String                @db.ObjectId
+  subcategory       subcategory?          @relation(fields: [subcategoryId], references: [id])
+  subcategoryId     String                @db.ObjectId
+  price             Float
+  discount          String
+  discountOffer     String
+  isActive          Boolean
+  productDetail     String
+  createdAt         DateTime              @default(now())
+  updatedAt         DateTime              @updatedAt
+  cart              cart[]
+  wishlist          wishlist[]
+  productColorImage product_color_image[]
+  review            review[]
+  orderedItems      ordereditems[]
+}
+
+model order {
+  id             String        @id @default(auto()) @map("_id") @db.ObjectId
+  user           User?         @relation(fields: [userId], references: [id])
+  userId         String        @db.ObjectId
+  orderStatus    orderStatus
+  orderedDate    DateTime      @default(now())
+  totalAmmount   Float
+  createdAt      DateTime      @default(now())
+  updatedAt      DateTime      @updatedAt
+  payment        payment[]
+  orderedItems   ordereditems? @relation(fields: [ordereditemsId], references: [id])
+  ordereditemsId String?       @db.ObjectId
+}
+
+model ordereditems {
+  id         String    @id @default(auto()) @map("_id") @db.ObjectId
+  quantity   Int
+  price      Float
+  createdAt  DateTime  @default(now())
+  updatedAt  DateTime  @updatedAt
+  order      order[]
+  Products   Products? @relation(fields: [productsId], references: [id])
+  productsId String?   @db.ObjectId
+}
+
+model cart {
+  id        String    @id @default(auto()) @map("_id") @db.ObjectId
+  user      User?     @relation(fields: [userId], references: [id])
+  userId    String    @db.ObjectId
+  product   Products? @relation(fields: [productId], references: [id])
+  productId String    @db.ObjectId
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+}
+
+model wishlist {
+  id        String    @id @default(auto()) @map("_id") @db.ObjectId
+  user      User?     @relation(fields: [userId], references: [id])
+  userId    String    @db.ObjectId
+  product   Products? @relation(fields: [productId], references: [id])
+  productId String    @db.ObjectId
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+}
+
+model contactus {
+  id          String   @id @default(auto()) @map("_id") @db.ObjectId
+  fullName    String?
+  email       String?
+  mobile      String?
+  subject     String?
+  description String?
+  createdAt   DateTime @default(now())
+}
+
+model jobapply {
+  id          String   @id @default(auto()) @map("_id") @db.ObjectId
+  firstName   String
+  lastName    String
+  email       String
+  mobile      String
+  location    String
+  gender      gender
+  resume      String
+  coverLetter String
+  description String
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model shippingaddress {
+  id          String      @id @default(auto()) @map("_id") @db.ObjectId
+  user        User?       @relation(fields: [userId], references: [id])
+  userId      String      @db.ObjectId
+  fullName    String
+  mobile      String
+  zipcode     String
+  city        String
+  fullAddress String
+  landMark    String
+  state       String
+  addressType addresstype
+  createdAt   DateTime    @default(now())
+  updatedAt   DateTime    @updatedAt
+}
+
+model paymentway {
+  id                String    @id @default(auto()) @map("_id") @db.ObjectId
+  user              User?     @relation(fields: [userId], references: [id])
+  userId            String    @db.ObjectId
+  paymentModeDetail String
+  payment           payment[]
+  createdAt         DateTime  @default(now())
+  updatedAt         DateTime  @updatedAt
+}
+
+model payment {
+  id             String      @id @default(auto()) @map("_id") @db.ObjectId
+  order          order?      @relation(fields: [orderId], references: [id])
+  orderId        String      @db.ObjectId
+  paymentWay     paymentway? @relation(fields: [paymentWayId], references: [id])
+  paymentWayId   String      @db.ObjectId
+  amountToPaid   Float
+  tax            Float
+  discountAmount Float
+  deliveryCharge Float
+  paidAmount     Float
+  paymentStatus  String
+  appliedCoupon  String
+  createdAt      DateTime    @default(now())
+  updatedAt      DateTime    @updatedAt
+}
+
+model review {
+  id          String    @id @default(auto()) @map("_id") @db.ObjectId
+  user        User?     @relation(fields: [userId], references: [id])
+  userId      String    @db.ObjectId
+  product     Products? @relation(fields: [productId], references: [id])
+  productId   String    @db.ObjectId
+  rating      Float
+  tittle      String
+  description String
+  reviewImage String
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+}
+
+enum Role {
+  USER
+  ADMIN
+}
+
+enum gender {
+  male
+  female
+  others
+}
+
+enum addresstype {
+  home
+  office
+}
+
+enum orderStatus {
+  placed
+  shipped
+  Delivered
+  canceled
+  returned
+}
+
+enum userStatus {
+  active
+  isActive
+  blocked
+}
+
+model productt {
+  id          String      @id @default(auto()) @map("_id") @db.ObjectId
+  title          String
+  vendar         String
+  product_type   String
+  createdAt      DateTime       @default(now())
+  updatedAt      DateTime       @updatedAt
+  publised_scope publised_scope
+  tags           String[]
+  Variant        Variant[]
+}
+
+model Variant {
+  id          String      @id @default(auto()) @map("_id") @db.ObjectId
+  title                String
+  price                Float
+  sku                  String
+  compare              Float?
+  options1             String?
+  createdAt            DateTime  @default(now())
+  updatedAt            DateTime  @updatedAt
+  taxable              Boolean
+  barcode              String?
+  grams                Int
+  imageId              String?   @map("image_id")
+  weight               Float
+  weightUnit           String    @map("weight_unit")
+  inventoryQuantity    Int       @map("inventory_quantity")
+  oldInventoryQuantity Int       @map("old_inventory_quantity")
+  taxCode              String?   @map("tax_code")
+  productt             productt? @relation(fields: [producttId], references: [id])
+  producttId           String?   @db.ObjectId
+}
+
+enum publised_scope {
+  global
+  private
+  any
+}

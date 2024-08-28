@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "image": "color1.png",
+        "productsname": "Navy Blue"
+    },
+    {
+        "id": 2,
+        "image": "color2.png",
+        "productsname": "Navy Blue"
+    },
+    {
+        "id": 3,
+        "image": "color3.png",
+        "productsname": "Navy Blue"
+    },
+    {
+        "id": 4,
+        "image": "color4.png",
+        "productsname": "Navy Blue"
+    },
+    {
+        "id": 5,
+        "image": "color2.png",
+        "productsname": "Navy Blue"
+    },
+    {
+        "id": 6,
+        "image": "color3.png",
+        "productsname": "Navy Blue"
+    }
+]

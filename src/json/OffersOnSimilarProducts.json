@@ -1,0 +1,26 @@
+    [
+        {
+            "id": 1,
+            "image": "productimg.png",
+            "productName": "Denim Jeans",
+            "productsoffer": "40-60% Off"
+        },
+        {
+            "id": 2,
+            "image": "productimg.png",
+            "productName": "Denim Jeans",
+            "productsoffer": "40-60% Off"
+        },
+        {
+            "id": 3,
+            "image": "productimg.png",
+            "productName": "Denim Jeans",
+            "productsoffer": "40-60% Off"
+        },
+        {
+            "id": 4,
+            "image": "productimg.png",
+            "productName": "Denim Jeans",
+            "productsoffer": "40-60% Off"
+        }
+    ]

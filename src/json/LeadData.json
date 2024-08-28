@@ -1,0 +1,178 @@
+{
+  "jobtype": [
+    {
+      "id": 1,
+      "time": "Full Time"
+    },
+    {
+      "id": 2,
+      "time": "Part Time"
+    },
+    {
+      "id": 3,
+      "time": "Remote"
+    }
+  ],
+  "JobCategories": [
+    {
+      "id": 1,
+      "category": "Lead Manager"
+    },
+    {
+      "id": 2,
+      "category": "Assistant Manager"
+    },
+    {
+      "id": 3,
+      "category": "HR Executive"
+    },
+    {
+      "id": 4,
+      "category": "Business Development"
+    },
+    {
+      "id": 5,
+      "category": "Account Department"
+    }
+  ],
+  "location": [
+    {
+      "id": 1,
+      "location": "India"
+    },
+    {
+      "id": 2,
+      "location": "USA"
+    },
+    {
+      "id": 3,
+      "location": "Canada"
+    },
+    {
+      "id": 4,
+      "location": "Australia"
+    },
+    {
+      "id": 5,
+      "location": "Japan"
+    },
+    {
+      "id": 6,
+      "location": "India"
+    },
+    {
+      "id": 7,
+      "location": "USA"
+    },
+    {
+      "id": 8,
+      "location": "Canada"
+    },
+    {
+      "id": 9,
+      "location": "Australia"
+    },
+    {
+      "id": 10,
+      "location": "Japan"
+    }
+  ],
+  "cityState": [
+    {
+      "id": 1,
+      "citystate": "Punjab"
+    },
+    {
+      "id": 2,
+      "citystate": "New Delhi"
+    },
+    {
+      "id": 3,
+      "citystate": "New York"
+    },
+    {
+      "id": 4,
+      "citystate": "Gaziabaad"
+    },
+    {
+      "id": 5,
+      "citystate": "Chandigarh"
+    },
+    {
+      "id": 6,
+      "citystate": "Punjab"
+    },
+    {
+      "id": 7,
+      "citystate": "New Delhi"
+    },
+    {
+      "id": 8,
+      "citystate": "New York"
+    },
+    {
+      "id": 9,
+      "citystate": "Gaziabaad"
+    },
+    {
+      "id": 10,
+      "citystate": "Chandigarh"
+    }
+  ],
+  "leadmanagerdata": [
+    {
+      "id": 1,
+      "leadmanager": "Software Dev Engineer Job, FashionCart Bussiness (India)",
+      "text": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+      "location": "New Delhi, India",
+      "JobType": "Full Time",
+      "Experience": "0 to 4 Years",
+      "postdate": "20 Aug, 2022"
+    },
+    {
+      "id": 2,
+      "leadmanager": "Software Dev Engineer Job, FashionCart Bussiness (India)",
+      "text": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+      "location": "New Delhi, India",
+      "JobType": "Full Time",
+      "Experience": "0 to 4 Years",
+      "postdate": "20 Aug, 2022"
+    },
+    {
+      "id": 3,
+      "leadmanager": "Software Dev Engineer Job, FashionCart Bussiness (India)",
+      "text": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+      "location": "New Delhi, India",
+      "JobType": "Full Time",
+      "Experience": "0 to 4 Years",
+      "postdate": "20 Aug, 2022"
+    },
+    {
+      "id": 4,
+      "leadmanager": "Software Dev Engineer Job, FashionCart Bussiness (India)",
+      "text": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+      "location": "New Delhi, India",
+      "JobType": "Full Time",
+      "Experience": "0 to 4 Years",
+      "postdate": "20 Aug, 2022"
+    },
+    {
+      "id": 5,
+      "leadmanager": "Software Dev Engineer Job, FashionCart Bussiness (India)",
+      "text": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+      "location": "New Delhi, India",
+      "JobType": "Full Time",
+      "Experience": "0 to 4 Years",
+      "postdate": "20 Aug, 2022"
+    },
+    {
+      "id": 6,
+      "leadmanager": "Software Dev Engineer Job, FashionCart Bussiness (India)",
+      "text": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+      "location": "New Delhi, India",
+      "JobType": "Full Time",
+      "Experience": "0 to 4 Years",
+      "postdate": "20 Aug, 2022"
+    }
+  ]
+}

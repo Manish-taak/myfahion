@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Men's",
+    "image": "explore1.png"
+  },
+  {
+    "id": 2,
+    "name": "Women's",
+    "image": "explore2.png"
+  },
+  {
+    "id": 3,
+    "name": "Kid's",
+    "image": "explore3.png"
+  },
+  {
+    "id": 4,
+    "name": "Perfume's",
+    "image": "explore4.png"
+  },
+  {
+    "id": 5,
+    "name": "Casual Shoe",
+    "image": "explore5.png"
+  },
+  {
+    "id": 6,
+    "name": "Wedding Sandal's",
+    "image": "explore6.png"
+  }
+]

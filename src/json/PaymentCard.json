@@ -1,0 +1,35 @@
+[
+    {
+        "bankname": "HDFC Bank",
+        "digit1": "5911",
+        "digit2": "8188",
+        "digit3": "8485",
+        "digit4": "7646",
+        "expirymonth": "07",
+        "expiryyear": "25",
+        "holdername": "Ahmad Dorwart",
+        "className": "bg-light_secondary_shades_4p"
+    },
+    {
+        "bankname": "HDFC Bank",
+        "digit1": "5911",
+        "digit2": "8188",
+        "digit3": "8485",
+        "digit4": "7646",
+        "expirymonth": "07",
+        "expiryyear": "25",
+        "holdername": "Ahmad Dorwart",
+        "className": "bg-light_secondary_shades_4p"
+    },
+    {
+        "bankname": "HDFC Bank",
+        "digit1": "5911",
+        "digit2": "8188",
+        "digit3": "8485",
+        "digit4": "7646",
+        "expirymonth": "07",
+        "expiryyear": "25",
+        "holdername": "Ahmad Dorwart",
+        "className": "bg-light_secondary_shades_4p"
+    }
+]

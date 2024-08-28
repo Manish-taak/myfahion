@@ -1,0 +1,163 @@
+{
+  "colordata": [
+    {
+      "id": 1,
+      "colorName": "Orange (20)",
+      "colorcode": "#F57E5D"
+    },
+    {
+      "id": 2,
+      "colorName": "Yellow (20)",
+      "colorcode": "#F5EF5D"
+    },
+    {
+      "id": 3,
+      "colorName": "Green (20)",
+      "colorcode": "#72F55D"
+    },
+    {
+      "id": 4,
+      "colorName": "Sky Blue (20)",
+      "colorcode": "#5DF5F5"
+    },
+    {
+      "id": 5,
+      "colorName": "Light Blue (20)",
+      "colorcode": "#5DACF5"
+    },
+    {
+      "id": 6,
+      "colorName": "Voilet (20)",
+      "colorcode": "#6471E1"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "subcategoryName": "Men’s Fashion",
+      "productsName": ["Mens Fashion", "Womens Fashion", "kidsFashion"]
+    },
+    {
+      "id": 2,
+      "subcategoryName": "TopWear",
+      "productsName": ["Mens Fashion", "Womens Fashion", "kidsFashion"]
+    },
+    {
+      "id": 3,
+      "subcategoryName": "T-Shirts",
+      "productsName": ["Mens Fashion", "Womens Fashion", "kidsFashion"]
+    }
+  ],
+  "gender": [
+    {
+      "id": 1,
+      "gender": "Men’s Fashion"
+    },
+    {
+      "id": 2,
+      "gender": "Women’s Fashion"
+    },
+    {
+      "id": 3,
+      "gender": "Kid’s Fashion"
+    }
+  ],
+  "Discount": [
+    {
+      "id": 1,
+      "discount": "80% Above"
+    },
+    {
+      "id": 2,
+      "discount": "40-60% Below"
+    },
+    {
+      "id": 3,
+      "discount": "20% Below"
+    },
+    {
+      "id": 4,
+      "discount": "20-40% Below"
+    },
+    {
+      "id": 5,
+      "discount": "60-80% Below"
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "brandName": "Adidas (20)"
+    },
+    {
+      "id": 2,
+      "brandName": "Allen Solly (20)"
+    },
+    {
+      "id": 3,
+      "brandName": "Puma (20)"
+    },
+    {
+      "id": 4,
+      "brandName": "Tommy HF (20)"
+    },
+    {
+      "id": 5,
+      "brandName": "Levi’s (20)"
+    },
+    {
+      "id": 6,
+      "brandName": "Raymond (20)"
+    },
+    {
+      "id": 7,
+      "brandName": "Gucci (20)"
+    },
+    {
+      "id": 8,
+      "brandName": "Burberry (20)"
+    }
+  ],
+  "SizeChart": [
+    {
+      "id": 1,
+      "size": "Extra Small (20)"
+    },
+    {
+      "id": 2,
+      "size": "Small (20)"
+    },
+    {
+      "id": 3,
+      "size": "Medium (20)"
+    },
+    {
+      "id": 4,
+      "size": "Large (20)"
+    },
+    {
+      "id": 5,
+      "size": "X Large (20)"
+    },
+    {
+      "id": 6,
+      "size": "XX Large (20)"
+    },
+    {
+      "id": 7,
+      "size": "3 XL (20)"
+    },
+    {
+      "id": 8,
+      "size": "4 XL (20)"
+    },
+    {
+      "id": 9,
+      "size": "5 XL (20)"
+    },
+    {
+      "id": 10,
+      "size": "6 XL (20)"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "image": "budget1.png",
+        "btntitle": "Regular Fashion Below",
+        "discount": " 10% - 30%"
+    },
+    {
+        "id": 2,
+        "image": "budget2.png",
+        "btntitle": "Regular Fashion Below",
+        "discount": " 30% - 50%"
+    },
+    {
+        "id": 3,
+        "image": "budget3.png",
+        "btntitle": "Regular Fashion Below",
+        "discount": "50% - 70%"
+    },
+    {
+        "id": 4,
+        "image": "budget4.png",
+        "btntitle": "Regular Fashion Below",
+        "discount": "70% - 90%"
+    }
+]

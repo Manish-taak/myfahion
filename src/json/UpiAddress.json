@@ -1,0 +1,22 @@
+[
+    {
+        "id": 18,
+        "value": "name@hdfcbanak",
+        "imageSrc": "paymentoptions3.png"
+    },
+    {
+        "id": 19,
+        "value": "56789@Freecharge",
+        "imageSrc": "paymentoptions2.png"
+    },
+    {
+        "id": 20,
+        "value": "56789@Freecharge",
+        "imageSrc": "paymentoptions1.png"
+    },
+    {
+        "id": 21,
+        "value": "123456789@AmazonPay",
+        "imageSrc": "amazon.png"
+    }
+]
